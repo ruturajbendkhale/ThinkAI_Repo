@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+selenium
+firecrawl-py
+openai
+dotenv
+pandas
+openpyxl
+bertopic
+scikit-learn
+jupyter
+numpy==1.24.1
+plotly

@@ -1,0 +1,912 @@
+[
+    {
+        "title": "Verkehrsberuhigter Bereich Holwedestraße",
+        "description": "In der Holwedestraße ist der Verkehr viel zu schnell, extreme Raser vorallem Abends, aber auch tagsüber. Dadurch besteht eine große Gefahr für Kinder vorallem auch im Bereich der Kita oder aber auch Passanten im Bereich des Klinikums. Es gibt schon eine Geschwindigkeitsbegrenzung, die aber absolut ignoriert wird.",
+        "status": "Umgesetzt",
+        "tag": "Verkehr",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Sicherer Schulweg Querum",
+        "description": "Eichhahnweg bis Wabenkamp Einbahnstrasse .Nur einfahrt in den Eichhahnweg von der Bevenroderstrasse.Somit währe die gesamte Situation Eichhahnweg/Bevenroderstrasse entschärft.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "0 von 50"
+    },
+    {
+        "title": "Wickelboard auf städtischen Spielplätzen",
+        "description": "Liebe MitarbeiterInnen der Stadt Braunschweig,bei unserem letzten Urlaub in Freiburg haben wir in einem Tierpark auf einem Spielplatz einen fest installierten Outdoor-Wickeltisch vorgefunden und waren begeistert von dieser simplen Erleichterung des Wickelns auf einem Spielplatz. Ich möchte diese Inspiration und diesen Impuls gerne an die Stadt Braunschweig weitergeben. Unter der Internetadressewww.wickelboard.definden sich die Informationen zu dem kleinen Startup aus Freiburg.Gerade auf den Spielplätzen im Prinzenpark, am Ringgleis oder auf dem Madamenweg, auf denen es Angebote für Babys und Kleinkinder gibt, finde ich einen wind- und regengeschützten Wickelplatz sinnvoll und hilfreich. Es bietet ein Stück mehr Privatsphäre für die Kinder während des Wickelvorganges und ist rückengerecht für die Eltern. Denn egal, wie frisch gewickelt die Kinder auf den Spielplatz kommen - die ungeplanten Kackawindeln sind immer mit einzuberechnen!Ich würde mich freuen, wenn diese Idee Gehör findet!",
+        "status": "Die Idee wird den politischen Gremien zur Entscheidung vorgelegt",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Neugestaltung WOLLMARKT",
+        "description": "Der Starkregen 2023 hat mal wieder verdeutlicht, dass wir versiegelte Flächen in der Innenstadt aufbrechen müssen und mehr Grünflächen brauchen.Neben der zwingenden Modernisierung zum Versickern des Regens brauchen wir in der Stadt mehr Grünflächen, um im Hochsommer Schattenflächen und Sitzmöglichkeiten zum Verweilen zu bieten.Öffnen statt Versiegeln ist zwangsläufig der Weg um dem wandelnden Klima und dem übergeordneten Interesse gerecht werden!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "19 von 50"
+    },
+    {
+        "title": "Dauerhafte Begrünung des Schlossplatzes und Platz der Deutschen Einheit",
+        "description": "Der Schlossplatz und der Platz der Deutschen Einheit sind trist und langweilig. Eine dauerhafte Begrünung oder Bepflanzung mit diversen Blumenkübeln würden die Plätze ansehnlicher machen und aufwerten. Diverse Projekte zeigten schon wie schön diese Plätze aussehen könnten.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "27 von 50"
+    },
+    {
+        "title": "Mehr Mülleimer im Waldstück zwischen Kralenriede, der Schuntersiedlung und Rühme.",
+        "description": "Viele Menschen beschweren sich immer wieder über Hundekot an den Wegen. Neulich war ich im Waldstück (zwischen Kralenriede, Rühme und der Schuntersiedlung) spazieren und wollte ein Taschentuch wegwerfen. Dabei ist mir aufgefallen, dass es in dem ganzen Bereich keinen einzigen Mülleimer gibt. Kein wunder, dass Menschen den Kot ihrer Hunde lieber liegen lassen als eine halbe Stunden einen Kotbeutel spazieren zu tragen.",
+        "status": "Keine Zuständigkeit der Stadtverwaltung",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "5 von 50"
+    },
+    {
+        "title": "Beleuchtung Wasserturm Giersberg",
+        "description": "Nachdem viele Beleuchtungen wieder eingeschaltet wurden, sollten auch die LEDs am Wasserturm Giersberg wieder eingeschaltet werden. Das wäre ganz sicher eine Bereicherung des Stadtbildes!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Bauen und Planung",
+        "vote": "2 von 50"
+    },
+    {
+        "title": "Tempo 30 Madamenweg/Ringgleis bis Kreuzung Madamenweg/Altstadring",
+        "description": "In diesem Teilstück des Mademenweg herrscht aktuell Tempo 50. Dies hat - gerade in den Bezug auf die Kreuzung zum Altstadtring - die Folge, dass Autofahrer vermehrt stark Beschleunigen um noch eine Grüne Ampelphase zu erreichen. Für die Nachtstunden ist dieser Lärm aber unerträglich, sodass eine Tempo 30 Geschwindigkeitsbegrenzung abhilfe schaffen könnte, wie sie auch in den umliegenden Straßen bereits eingerichtet ist.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "15 von 50"
+    },
+    {
+        "title": "Zeitgemäße Funktionalität für die Ideenplattform",
+        "description": "Die alte Ideenplattform<https://mitreden2023.braunschweig.de/dialoge/ideenplattform&gt;ermöglichte das Anfügen von Photos, hatte eine Suchfunktion, die meisten Hyperlinks funktionierten (hier geht der Link zum Kontaktformular bei den FAQ unter \"An wen wende ich mich ...) <https://mitreden.braunschweig.de/haeufige-fragen&gt; immer noch ins Leere!) ... Eigentlich alles Selbstverständlichkeiten .Ich schlage vor, diese Funktionen auch für die Ideenplattform nachzurüsten.",
+        "status": "Wird bei zukünftigen Planungen berücksichtigt",
+        "tag": "Allgemeine Verwaltung",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Spielplätze im Herbst/Winter nutzbarer machen",
+        "description": "Kinder spielen zu jeder Jahreszeit auf Spielplätzen. Das ist auch wichtig, sie brauchen nicht zuletzt aus gesundheitlichen Gründen Bewegung. Da es in den Herbst/Winter-Monaten aber bereits früher dunkel wird, sind die (unbeleuchteten) Spielplätze Nachmittags - z. B. nach der Kita - nicht nutzbar oder birgen sogar gefahren. Die Spielplätze sollten von daher Beleuchtung erhalten. Das bringt Sicherheit und mehr Bewegungsfreiheit für Kinder.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "15 von 50"
+    },
+    {
+        "title": "Fahrradkonzept Wendenstraße überarbeiten...",
+        "description": "In der Wendenstraße wurde zur Sanierung der Bahngleise (2013?) auch die Fahrradverkehrsführung geändert. Möchte man zum Beispiel von der Fallersleber Str. zur Uni, fahren (leider) sehr viele Fahrradfahrer direkt bis Höhe Kaiserstr. rechts auf der Wendenstraße (auf dem Fussweg), weil sie schlichtweg zu faul sind, erst noch einmal über die Wendenstraße zu fahren, dort vor der Apotheke rechts die Wendenstr. hoch, Höhe Kaiserstr. wieder über die Wendenstraße (2. Mal - mit Ampel!) um dann an der Wilhelmstr. an der nächsten Ampel zu stehen.Auf deutsch: Dass zu Bahngleissanierung auch gleich die Fahrradwege zusammen gelegt wurden, war in meinen Augen ein großer Fehler. So halten Lieferdienste nun auf der rechten Fahrbahn, Fahrradfahrer fahren eh wie sie wollen (also auch auf dem Fußweg am großen Parkplatz, weil sie denken, der breite Radweg sei ein Fußweg - wie früher...) und wer sich noch an die Verkehrsregeln hält, wartet nun 10 Minuten pro Strecke länger an den Ampeln. Das ist nicht der Sinn und Zweck von Radwegen, ständig die Fahrbahnen wechseln zu müssen.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "10 von 50"
+    },
+    {
+        "title": "Brodweg - brisant für alle Verkehrsteilnehmenden",
+        "description": "Sehr geehrte Damen und Herren,seit über dreißig Jahren im östlichen Ringgebiet wohnhaft, ist der Brodweg für mich und meine Familie sowohl als Autofahrende, aber vor allem mit dem Rad eine vertraute und vielgenutzte Strecke, zumal unser Kleingarten in einem Verein an dieser Straße liegt. Nach den jüngsten Sanierungsmaßnahmen ist es schon häufiger zu brenzligen Situationen gekommen, entweder weil Autofahrende zu Überholvorgängen ansetzen ohne den notwendigen Sicherheitsabstand zu den Radfahrenden einzuhalten, Radfahrende auch dort, wo es nicht erlaubt ist, auf dem Fußweg fahren und dort in Konflikte geraten oder es zu Staus wegen der auf den dafür ausgeiesenen Stellflächen für PKWs kommt, die wiederum zu heiklen Überholmanövern verleiten. Alles in allem lässt sich feststellen, dass der Verkehrsraum für alle Nutzenden (Anwohnende, Kleingarten- und Friedhofsbesuchende und der Durchgangsverkehr) knapp ist.Eine Geschwindigkeitsmessung, letzte Woche direkt vor einer Kurve installiert, dürfte das Problem kaum erfassen. Wünschenswert wären Vorortkontrollen, um speziell die teilweise besonders für die Radfahrenden gefährlichen Übermanöver zu erfassen und zeitnah eine Lösung zu finden, bevor es zu einem Unfall mit vielleicht schlimmen Folgen kommt.",
+        "status": "Keine Zuständigkeit der Stadtverwaltung",
+        "tag": "Verkehr",
+        "vote": "17 von 50"
+    },
+    {
+        "title": "Schulverkehr Querum",
+        "description": "Zusammenlegung der Bushaltestellen Seeener Strasse und Eichhahnweg vor der Schulaula. Somit braucht kein Schüler mehr über die Essener strasse oder den Eichhahnweg und Kostenerparniss (z.b. Unterhalt/Winterdienst)",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "2 von 50"
+    },
+    {
+        "title": "Solarunterstand für Räder",
+        "description": "Aktuell wird im Zusammenhang mit dem Förderprogramm „Resiliente Innenstädte“, nach Fahrradparkhäusern u.a zum Zweck des Witterungsschutzes gesucht.Sinnvoller wäre es vorhandene Infrastrukturflächen, die bereits als Abstellmöglichkeit dienen z.B. am Schloss und am Hbf, gegen Regen zu schützen. Dieses natürlich gleich nachhaltig durch die Verwendung von Solarpanelen als Überdachung in Kombination mit der Verwendung der erzeugten Energie für die Beleuchtung in näherer Umgebung. Das dadurch aufgefangene Regenwasser könnte u.a. in Nahestehende Begrünung geleitet werden.Weiterhin kann mit der erzeugten Energie z.B. eine Videoüberwachung zur Aufklärung von Diebstählen installiert werden.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "22 von 50"
+    },
+    {
+        "title": "Kastanienallee Ampelschaltung anpassen",
+        "description": "Seit die 30er Zone in der Kastanienallee eingeführt wurde, \"belohnt\" es jeden, der sich daran hält mit einer kurz vor Ankunft auf eine Rot schaltende Ampel für beide Fahrtrichtungen. Und \"erfreut\" jeden Anwohner mit laufenden Motoren und Anfahrlärm. Das kann es ja irgendwie nicht sein? Wer mit Tempo durchfährt, dem winkt eine grüne Ampel, wenn nicht geblitzt wird. Wo ist da der Sinn? Ständiges Anfahren ist ein größerer emittent an Abgasen und Lärm, als es einbringen soll. Das ist in fast allen Ampeln der Stadt so, aber hier besonders auffällig, da besonders die 30er Zone einen Sinn geben sollte. Leider wieder mal nur halbe (nur einfache) Arbeit der Stadt.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Verkehrspiegel Ausfahrt Buschweg auf die Hauptstraße in Wenden",
+        "description": "Aufgrund des Neubaus an der Hauptstraße Nr. 71 gestaltet sich die Ausfahrt aus dem gesamten Buschweg sehr schwierig. Der Überblick über den von links über die Hauptstraße kommenden Verkehr ist nicht möglich.Eine Anbringung eines Verkehrsspiegels auf der gegenüberliegenden Straßenseite (Hauptstraße 21/22), würde die Einordnung in den fließenden Verkehr für alle Bewohner des Buschwegs erleichtern.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "17 von 50"
+    },
+    {
+        "title": "Ampel für Radfahrer Wendenring Ecke Maschpl",
+        "description": "Nachdem ich heute WIEDER mal einen Beinaheunfall mit einem abiegenden Auto an der Ampel Ecke Wendenring Maschpl. hatte, möchte ich hier vorschlagen dort zusätzlich zur Autoampel noch eine Fahrradampel zu installieren. Zumindest auf der Seite Richtung Hamburger Str. Der Autofahrer hatte bestimmt beim Einbiegen in Maschpl. gedacht, dass ich ebenfalls halten würde.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "2 von 50"
+    },
+    {
+        "title": "Hundewiese am Jütenring einrichten - Bebauungsplan HA 137 ändern",
+        "description": "Die bisherigen und zukünftigen Anwohner am geplanten Jütenring brauchen eine Hundewiese.Im Bebauungsplan HA 137 zum Jütenring in der Nordstadt zwischen Nordanger, Gotenweg und Langobardenstraße sind die Wünsche der Hundebesitzer nicht ausreichend berücksichtigt:* Es gibt zahlreiche Hundebesitzer, die sich eine Hundewiese im Quartier wünschen.* In unmittelbarer Nähe befinden sich 1000 Neubauwohnung, die zu den bestehenden Häusern in der Nordstadt neu hinzugekommen sind und deshalb den Bedarf an einer Hundewiese erhöht haben.* Die Fläche wird bereits seit Jahrzehnten von Hundebesitzern der Nordstadt aufgesucht, weil es in der Nähe keine andere Alternative gibt, wo der Hund frei herumlaufen kann.* Ein Hundebesitzer zahlt Steuern und wünscht sich nicht nur deshalb eine ausreichende Berücksichtigung bei der Planung von neuen Wohnungen.* Die 300 geplanten neuen Wohnungen werden den Wunsch nach einer Hundewiese weiter vergrößern.* Südlich gibt es einen Jugendspielplatz, der vorher von den Hundebesitzern  genutzt wurde und jetzt nicht mehr in ausreichender Fläche zur Verfügung steht.* Nördlich an der Freyastraße gibt es eine freie Fläche, die jedoch in absehbarer Zeit nicht  für Hundebesitzer zur Verfügung steht.* Im Sinne des Klimaschutzes ist es sinnvoll, eine Hundewiese in unmittelbarer Nähe zu haben, sonst wird das Auto mit dem Hund aus Mangel an Alternativen genutzt, um eine Wiese weiter weg aufzusuchen.",
+        "status": "Abgelehnt",
+        "tag": "Bauen und Planung",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Unterstützung für besonders gefährdete Menschen bei Hitze",
+        "description": "Hitzetage mit mehr als 30°C nahmen im Großraum Braunschweig bereits um 9,1 Tage zu. Eine weitere Verschärfung hinsichtlich Höchsttemperatur, Anzahl der Hitzetage und Anzahl zusammenhängender Hitzetage durch den fortschreitenden Klimawandel ist zu erwarten.Das Quartier Mitte-Ost (Innenstadt, Magniviertel, südlicher Teil des Östlichen Ringgebietes) ist durch seine Bebauungssituation stark betroffen (s. Klimaanalysekarten Stadt Braunschweig).Hitze führt zu körperlichen und psychischen Folgen – bis hin zu Krankenhausaufenthalten und zum Tod. Betroffen sind v. a. Senior*innen, körperlich oder psychisch Vorerkrankte, Kinder und Schwangere. Im Quartier Mitte-Ost lebt fast jede*r Zweite allein, darunter viele Senior*innen oder vorerkrankte Menschen. Nur ein Teil von ihnen ist in Hilfe- und Unterstützungssysteme eingebunden. Wir sehen es als notwendig an, dass die Stadt besonders gefährdete Menschen bei Hitze vor Folgen bis hin zur Übersterblichkeit schützt, z. B. durch eine Telefonhotline. Betroffene könnten in einem Register erfasst werden und erhalten bei Hitzewarnung von kommunalen Trägern Tipps und Hilfe. Bei Nichterreichbarkeit werden professionell Helfende vorbeigeschickt, um sicherzugehen, dass sich die Menschen nicht in hilflosem Zustand befinden.Wir bitten um Maßnahmen durch die Stadt unter Einbeziehung vorhandener Strukturen, um bei Hitze besonders gefährdete Menschen, die nicht / nicht ausreichend in Hilfs- und Unterstützungssysteme eingebunden sind, zu schützen.",
+        "status": "Laufend",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "3 von 50"
+    },
+    {
+        "title": "Geschwindigkeits- und Durchfahrtsbegrenzung Querumer Straße",
+        "description": "Seither wird die Querumer Straße gerne als Abkürzungsstrecke der Berliner Str. / Friedrich-Voigtländer-Straße genutzt.Hierbei nutzen nicht nur PKW, sondern regelmäßig auch LKW (>7,5t) die Straße.Aufgrund des schlechten Straßenzustands (viele Unebenheiten) geht hiermit jedoch eine deutliche Steigerung der Lärmbelastung für Anwohner einher. LKW-Aufbauten und nicht zureichend gesicherte Ladung beginnen u.a. zu klappern.Weiterhin wird sich durch die PKW und LKW nicht an die Geschwindigkeitsbegrenzung von 50Km/h gehalten.Der sich mittig befindliche Kindergarten sowie die Verkehrssituation an der Kreuzung zur Bevenroder Straße stellen hierbei eine Gefahrenquelle dar.Weiterhin müssen Radfahrer, aufgrund des schmalen Gehweges und teilweise parkender PKW, die Fahrbahn mitbenutzen.Eine Geschwindigkeitsbegrenzung auf 30Km/h, analog zur Bevenroder Straße, würde sowohl zur Steigerung der Verkehrssicherheit der Radfahrer sowie der Kindergartenkinder, als auch zur Reduzierung des Verkehrslärms für Anwohner sorgen.Weiterhin sollte eine Durchfahrtsbeschränkung für LKW (>7,5t), mit Ausnahme Linienbusse, geprüft werden.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "10 von 50"
+    },
+    {
+        "title": "Sitzbänke an der Platane Okerstraße 8b",
+        "description": "Liebe Mitarbeiter der Stadt Braunschweig,neben dem Haus Okerstraße 8b befindet sich eine kleine Grünfläche, die von einer großen Platane überragt wird. Es wäre klasse, wenn dort ein paar Sitzbänke hinkämen, damit die Bewohner des Hauses bzw. des gegenüberliegenden Seniorenheimes Möglichkeit hätten, sich dort im Schatten zu erholen, zu treffen und miteinander in Kontakt zu kommen.Die einzelne Bank vor dem Seniorenheim ist dafür definitiv zu wenig, an der Straßenbahnhaltestelle zu sitzen ist auch nicht gerade gemütlich. Ich denke Sitzgelegenheiten unter dem Baum wären sehr vorteilhaft für das Miteinander an der Okerstraße und würden eine enorme Aufwertung des Stadtviertels bedeuten.Mit freundlichen GrüßenSabine Selmar",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "11 von 50"
+    },
+    {
+        "title": "Aufführung des Dramas \"Julius von Tarent\" von Johann Anton Leisewitz",
+        "description": "Johann Anton Leisewitz war ein vielseitig tätiger Mensch. Er arbeitete im Brotberuf als Sekretär bei einer Landesbehörde (der sogenannten „Landschaft“). Und er setzte sich unermüdlich für eine moderne Armenpolitik ein, die 1805 konkret umgesetzt wurde. Leisewitz wurde in Braunschweig als „Vater der Armen“ gerühmt.Schon als junger Mann hatte er 1774 mit seinem Trauerspiel „Julius von Tarent“ einen Bestseller geschrieben, der auch heute noch als eines der bedeutendsten Theaterstücke des Sturm und Drang gilt. wikipedia schreibt dazu: \"Als zu Ostern 1776 Gotthold Ephraim Lessing das Leisewitz-Stück las, vermutete er ob der Genialität die Autorschaft Johann Wolfgang Goethes.\"https://de.wikipedia.org/wiki/Johann_Anton_LeisewitzDas vollständige Theaterstück findet man im Projekt Gutenberg:www.projekt-gutenberg.org/leisewiz/tarent/tarent.htmlAuch psychologisch ist das Theaterstück weiterhin aktuell, der titelgebende Protagonist ist eine der ältesten Darstellungen eines bipolaren Charakters. Leider wurde \"Julius von Tarent\" schon lange nicht mehr in Braunschweig aufgeführt, daher rege ich mit dieser Petition eine erneute Aufführung an, auch um des für die Stadtgeschichte wichtigen Johann Anton Leisewitz zu gedenken.",
+        "status": "Keine Zuständigkeit der Stadtverwaltung",
+        "tag": "Schule und Kultur",
+        "vote": "1 von 50"
+    },
+    {
+        "title": "Steg am Schapenbruchteich",
+        "description": "Hallo,ich hoffe, meine Frage kann hierüber beantwortet werden…:-)Wann wird der Steg am Schapenbruchteich repariert?Liebe Grüße Jens Richwien",
+        "status": "Keine Idee",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "0 von 50"
+    },
+    {
+        "title": "\"Viktualienmarkt\" Burgpassage",
+        "description": "Die Burgpassage zu einem dauerhaften Markt umgestalten.Viele kleine Läden, Feinkostläden, Bars (Brauereien), Cafés (Röstereien), Vinotheken etc. all solche Läden würden die Burgpassage in etwas einzigartigem verwandeln.Eine solche Passage wäre nicht nur für die Braunschweiger etwas besonderes, sondern würde auch viele Touristen nach Braunschweig bringen.I",
+        "status": "Keine Zuständigkeit der Stadtverwaltung",
+        "tag": "Bauen und Planung",
+        "vote": "9 von 50"
+    },
+    {
+        "title": "Wickeltisch",
+        "description": "Ich war am Sonntag im Prinzenpark und mir fehlte eine WickelmöglichkeitNeben dem Löwengarten (Herzogin-Elisabeth-Straße) gibt es öffentliche Toiletten.Kann hier nicht evtl einfach ein Wickeltisch angebracht werden?Viele Grüße",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "21 von 50"
+    },
+    {
+        "title": "FGÜ",
+        "description": "Der FGÜ in der Herzogin-Elisabeth-Straße zwischen Stadtpark und Prinzenpark wird von Autofahrenden konsequent ignoriert. Selten konnte ich den Vorrang des Fußverkehrs nutzen, um die Straße sicher zu überqueren.",
+        "status": "Keine Idee",
+        "tag": "Verkehr",
+        "vote": "1 von 50"
+    },
+    {
+        "title": "Toiletten für den Löwenwall",
+        "description": "Guten Tag,Ich würde gerne den Vorschlag oder vielmehr die Bitte einbringen, Toiletten (von mir auch gegen Nutzungsgebühr von 0,50€) auf dem Löwenwall zu installieren.Es gibt dort keine Möglichkeit seine Notdurft zu verrichten, was für einen stark frequentierten Park im Sommer zu unschönen Situationen führt, da die Menschen in die Büsche entlang der Oker ausweichen (müssen).Danke und Grüße",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Lärmaktionsplanung",
+        "description": "Sehr geehrte Damen und Herren, ich vermisse deutlich den Part Lärm durch Veranstaltungen im Außenbereich bei der Lärmaktionsplanung. Mir wäre es z.B. sehr wichtig, Musikveranstaltungen(Wolters Applaus Garten, Konzerte im Rahmen des Braunschweiger Tennisturniers als Beispiele genannt) in der Akustik zu begrenzen und somit Lärm gerade in den Abend und Nachtstunden zu reduzieren. Es müsste doch mit wenig Aufwand machbar sein, Konzerte auf einem maximalen Dezibel Lautstärke zu begrenzen. Ich kann mir nicht vorstellen, dass es hier gesetzliche oder behördliche Schwierigkeiten gibt. In den Fällen oben genannter Konzerte werden gleich ganze Stadtteile (Viewegs Garten) störend beschallt. Zudem habe ich das Gefühl, dass die Außenveranstaltungen in den letzten Jahren lauter geworden sind. Eine Reduzierung um beispielsweise 10 Dezibel gegenüber dem Jahr 2023 wäre meines Erachtens sinnvoll und wünschenswert. Verstehen Sie mich nicht falsch es geht mir nicht um eine Reduzierung der Zahl der Veranstaltungen sondern um eine sinnvolle Einhaltung von schallgrenzen, zumal auch ich gerne an diesen Veranstaltungen teilnehme und sie grundsätzlich begrüße. Gerne hätte ich eine Antwort von der Stadt Braunschweig zu meinem Anliegen an [Anmerkung der Moderation: Die Adresse wurde aus dem öffentlich sichtbaren Bereich entfernt.] Auf beiden Wegen beantworte ich auch gerne weiterführende Fragen. Mit besten Grüßen Jürgen Niebuhr",
+        "status": "Keine Idee",
+        "tag": "Allgemeine Verwaltung",
+        "vote": "3 von 50"
+    },
+    {
+        "title": "Umrüstung der ÖPNV-Busflotte auf Elektromobilität",
+        "description": "Die Zukunft des Verkehrs ist bekanntlich elektrisch, die Umstellung der ÖPNV-Busflotten geht allerdings nur langsam voran.Aktuell ist geplant, für den Braunschweiger ÖPNV 19 neue Elektrobusse zu kaufen:www.electrive.net/2023/05/23/braunschweig-bsvg-ordert-19-elektrobusse-b…Dies ist zum einen sehr teuer, zum anderen langwierig. Die prognostizierte Kapazität der derzeitigen E-Bus-Hersteller liegt bei max. 9.100 E-Busse bis zum Jahr 2030, womit das Braunschweiger integrierte Klimaschutzkonzept nicht erfüllt werden kann.Weitaus günstiger und nachhaltiger ist es hingegen, die bestehenden Dieselbusse auf Elektromobilität umzurüsten. Ein Beispiel dafür ist das Unternehmen \"To Zero\", das schon viele Busse auf Elektromobilität umgerüstet hat:https://to-zero.de/Wie eine solche Umrüstung funktioniert, zeigt dieses Video:www.youtube.com/watch?v=nx3GU6gP4k0Um Steuergelder und Ressourcen zu sparen möge daher die Stadt Braunschweig beschließen:Die Umrüstung der bestehenden ÖPNV-Dieselflotte auf Elektromobilität hat zukünftig Vorrang vor dem Neuankauf von Elektrobussen!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "21 von 50"
+    },
+    {
+        "title": "Einführung Stadtinterne Kinderbetreuung für Mütter",
+        "description": "Leider sind viele Frauen, die arbeiten, oft benachteiligt, da Sie irgendwann im Laufe ihres Lebens in Elternzeit gehen müssen, da Sie Kinder bekommen. Finanziell wird es meist schwierig für Mütter, sodass Sie nach einem Jahr oder spätestens zwei Jahren wieder arbeiten wollen. Dies ist immer schwierig, da Sie oft vielleicht keinen Krippenplatz bekommen, ein Platz zu teuer ist, sodass sich das arbeiten nicht mehr lohnt, oder sich einfach keine andere Betreuung für ihr Kind finden. Ferner fallen viele Frauen öfter in ihrem Berufsleben aus, weil das Kind nicht betreut werden kann oder die Krippe ausfällt oder eben auch Personalmangel herrscht. Meine Idee wäre es, für die Stadt einen sogenannten \"Betriebskindergarten\" oder eine \"Betriebskrippe\" einzurichten, wo sich die Mütter für anmelden können, sobald sie schwanger sind. Einen Beitrag kann man hierfür ebenfalls leisten, sodass beispielsweise 100,00 Euro vom Gehalt der Mutter abgezogen werden. So hat die Stadt etwas davon und die Mütter sparen Geld, da eine Krippe außerhalb viel mehr kostet. Ebenfalls ist das Kind immer in unmittelbarer Nähe, sodass man sich Wege spart und schneller auf der Arbeit sein kann. Mütter steigen auch viel früher ins Arbeitsleben ein, da Sie eine Betreuung für ihr Kind auf der Arbeit haben und sind so auch motivierter zu arbeiten, da ihre Kinder in guten Händen sind. Lasst uns die moderne Stadt Braunschweig sein und so etwas einrichten. Für die Zukunft - für die Mütter - für die Gleichberechtigung!",
+        "status": "Laufend",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "5 von 50"
+    },
+    {
+        "title": "Umsetzen Informationsstele am Burgplatz",
+        "description": "Die Informationsstele vor dem Burgplatz versperrt die Sicht auf die Burg und den Burgplatz. Kommen von \"Vor der Burg\" wird der Blick vom Dom und der Burg auf die Stele gelenkt. Gerade an diesem Platz in Braunschweig sollte ein uneingeschränkter Blick möglich sein.",
+        "status": "Umgesetzt",
+        "tag": "Bauen und Planung",
+        "vote": "1 von 50"
+    },
+    {
+        "title": "Mehr Mülleimer/ kotbeutelstation",
+        "description": "Guten Morgen,Ich wohne im Bäckerklint an der Petrikirche, dort ist eine Wiese und leider keine Kotbeutel Station.Vielleicht könnt dort ja eine eingerichtet werden.Zudem finde ich das es zu wenig Mülleimer im allgemeinen bei uns in der Ecke gibt.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Standort 2. Haferstroh-Toilette",
+        "description": "Mit Interesse habe den heutigen Artikel in def BZ gelesen. Am Löwenwall wird eine öffentliche Toilette ebenfalls sehr vermisst.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Bauen und Planung",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Zebrastreifen an der Kreuzung Mittelweg Ringgleis.",
+        "description": "Lieber Nachbarschaft, Lieber mitnutzer der Kreuzung Mittelweg Ringgleis,um die Kinder/Jugend die zur Schule oder Spielplatz gehen wollen, alte Menschen, Mütter mit Kinderwagen, Radfahrer und Menschen alle alter Klassen, im Schutz zunehmen  und gleichzeitig die Harmonie des Straßenverkehrs beizubehalten.Ich bitte um eure Hilfe, damit wir einen  neuen Zebrastreifen bei dieser Kreuzung umzusetzen.Vielen Dank!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "11 von 50"
+    },
+    {
+        "title": "Blitzer am Bohlweg ( vor Schloß )",
+        "description": "Am Bohlweg vor dem Schloss und in entgegengesetzter Richtung vorm Rathaus werden dauernd gefährliche Rennen gefahren, vornehmlich in den Abendstunden. Blitzer vorm Schloss und vorm Rathaus würden dies unterbinden und tragen zur Sicherheit von Fußgängern und zur Lärmentlastung bei.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "22 von 50"
+    },
+    {
+        "title": "Eltern-Kind-Schaukel für Spielplätze",
+        "description": "Hallo,ich habe diese tolle Eltern-Kind-Schaukel entdeckt und würde mich freuen, wenn es eine solche auch auf Braunschweiger Spielplätzen zu finden gäbe.https://www.spielplatzgeraete-maier.com/produkte/spielplatzgeraete/4999…Leider ist es für meine Kinder schon zu spät, aber ich bin davon überzeugt, dass sich viele Eltern von kleinen Kindern sehr darüber freuen würden. Dann müsste man nicht nur dastehen und Anschwung geben, sondern hat gemeinsam Spaß.Viele Güße",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "7 von 50"
+    },
+    {
+        "title": "Verbreiterung Fuß/Radweg Bienroder Weg",
+        "description": "Die Breite des rechten Fuß- und Radweg des Bienroder Wegs in nördlicher Richtung der ist zu klein.Das Überholen von Radfahrern oder Fußgängern von Radfahren ist schwierig. Aufgrund der hohen Geschwindigkeit der Fahrräder und dem fehlenden Klingeln bemerken Fußgänger die Radfahrer sehr spät und es kommt fast zu Unfällen. Wegen der parkenden Autos am Schutzgebiet oder mit einem Kinderwagen wird ein Überholen fast unmöglich. Auch die abfallende Böschung am Sportverein und die Geschwindigkeit der Autos verschlechtern die Überholung.Deswegen sollte der Weg verbreitert werden und geteilte Spuren für Radfahrer und Fußgänger gebaut werden. Größtenteils ist auch genügend Platz vorhanden, nur der Bahnübergang und der Zaun am Schutzgebiet sind vergrößert bzw. versetzt werden.Zudem ist der Asphalt des Weges brüchig und eine Erneuerung ist wichtig.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "14 von 50"
+    },
+    {
+        "title": "Fahrradpiktogramme Rüninger Weg endlich umsetzen",
+        "description": "Die angespannte Verkehrssituation auf dem Rüninger Weg besteht fort.Hohes Verkehrsaufkommen, nur an einer Straßenseite ist ein Fußweg angelegt (mit Zusatzschild \"Radfahrer frei\"). Die Fahrbahn wird duch parkende Autos  eingeengt. Fußgänger sind durch Radfahrende, die in beiden Richtungen auf dem Fußweg in oft hohem Tempo unterwegs sind, gefährdet. Wenn Radfahrende vorschriftsmäßig die Fahrbahn nutzen, werden sie häufig von PKW zu eng überholt, abgedrängt oder angepöbelt. Vielen PKW-Fahrern ist offenbar nicht klar, dass es nur einen FUSSWEG gibt und der Hinweis \"Radfahrer frei\" nicht bedeutet, dass es sich um einen (benutzungspflichtigen) Fahrradweg handelt.Zur Verdeutlichung der Situation hat der Mobilitätsausschuss des Rates daher beschlossen, Fahrradpiktogramme auf der Fahrbahn anzubringen.Eine sehr gute Maßnahme, auf die wir bisher vergeblich warten",
+        "status": "Umgesetzt",
+        "tag": "Verkehr",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Einrichten eines Durchfahrtverbots für Transporter und Kraftfahrzeuge über 3,5 Tonnen in die Volmestraße",
+        "description": "In den letzten Monaten kommt es immer häufiger zu der Situation, dass diverse Firmentransporter Parkplätze im Wohnviertel rund um die Volmestraße blockieren. Insbesondere der Bereich ab der Einmündung vom Rheinring in die Volmestraße ist maßgeblich davon betroffen.Die oben beschriebene Situation hat sich mit Beginn des Jahres verschärft, als  auf den nebenliegenden Parkflächen der Netto-Filiale eine Parkzeitbeschränkung und ein Durchfahrtsverbot für Kraftfahrzeuge über 3,5 Tonnen (Zeichen 253) eingerichtet wurde. Es ist zum einen anzumerken, dass die Parkplätze im Wohnviertel definitiv nicht für solche Transporter ausgelegt sind, zum anderen ist festzustellen, dass die wenigen Parkplätze allein durch die Kraftfahrzeuge der Bewohner bereits stark überlastet sind, sodass es regelmäßig zur Blockierung bereits installierter Halte/Parkverbote sowie zu parkenden Autos im verkehrsberuhigten Bereich kommt. Der Umstand, dass auch noch Firmentransporter die wenigen Parkplätze beanspruchen, ist (meiner Meinung nach) nicht hinzunehmen, da es anderweitige Parkmöglichkeiten, auch in unmittelbarer Nähe, für solche Fahrzeuge gibt.Es wäre sinnvoll, wenn auf diesem Abschnitt (zwischen Einmündung Rheinring und Volmestraße) ein Durchfahrtsverbot für Kraftfahrzeuge über 3,5 Tonnen (bspw. in Form von Zeichen 253 StVO) eigerichtet werden würde, mit Ausnahme von Lieferfahrzeugen, um die ohnehin angespannte Parkplatzsituation ein Stück weit zu entschärfen.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "4 von 50"
+    },
+    {
+        "title": "Ausnahmegenehmigung für pflegende Privatpersonen zum Parken",
+        "description": "Seit Einführung der neuen kostenpflichtigen Parkzonen, in der inneren Okerumflut, ist es für pflegende Privatpersonen unmöglich dort kostenfrei zu parken, um zu pflegende Familienangehörige zu betreuen. (bei Anfahrt mit eigenem PKW)Es sollte pflegenden Privatpersonen, die es bestimmt auch in diesen Bereichen gibt, möglich sein eine entsprechende Parkgenehmigung erhalten, die sie zum Beispiel von der Bedienpflicht des Parkscheinautomaten befreit. (auch gegen Gebühr)Die Stadt Aachen bietet so etwas vorbildlich für ihre Bürger in ihrem Serviceportal an.Was für Aachener Bürger möglich ist sollte auch in Braunschweig möglich sein!https://serviceportal.aachen.de/suche/-/vr-bis-detail/dienstleistung/85…",
+        "status": "Umgesetzt",
+        "tag": "Verkehr",
+        "vote": "5 von 50"
+    },
+    {
+        "title": "Umstellung der Beleuchtung auf LED",
+        "description": "Hallo,gibt es bereits einen Zeitplan für die Umstellung der Straßenbeleuchtung auf LED in den Randbezirken (beispielsweise hier im Heidberg)?In den letzten Monaten wurden die \"Haupthauptstraßen\" auf LED umgestellt. Viele Hauptstraßen haben noch diese orangene Beleuchtung. In den Nebenstraßen jedoch gibt es in der Regel Beleuchtung mit Doppel-Neonröhren. Diese fallen sehr häufig (teilweise) aus.Wann können wir mit einer Umrüstung auf LED rechnen?Besten Dank.Grüße,Martin Wagenknecht",
+        "status": "Keine Idee",
+        "tag": "Bauen und Planung",
+        "vote": "3 von 50"
+    },
+    {
+        "title": "Einfacher Weg für die Genehmigung von nicht kommerziellen Tanzveranstaltungen in Braunschweiger Park und Grünanlagen",
+        "description": "Im Zuge der kontrovers diskutierten Grünflächensatzung (Beschlussvorlage 23-20988) ist es dringend nötig einen einfachen und schnellen Weg nicht kommerzielle Tanzveranstaltungen in braunschweiger Park- und Grünflächenanlagen durchzuführen. Ein Gesetz an dem es sich orientieren ließe ist bereits in Bremen in Kraft. (https://tinyurl.com/Bremerplan) Ein ähnliches Gesetz in Braunschweig zu verabschieden halten wir als lokale Subkultur- und Kulturschaffende aus Braunschweig für unbedingt notwendig.Braunschweig hat jetzt die Chance und unserer Meinung nach auch die Pflicht ein Zeichen für Subkultur und Kleinkunst zu setzen und es uns möglichst einfach zu machen die braunschweiger Parkanlagen für spontane nichtkommerzielle Tanzveranstaltungen nutzbar zu machen.Wir fordern daher die Stadt auf einen einfachen und schnellen Genehmigungsweg für nichtkommerzielle Tanzveranstaltungen ihren BürgerInnen anzubieten.Für mehr Informationen können Sie unseren Offenen Brief zu diesem Thema lesen.https://totalbsnews.de/offener-brief-an-die-stadt-braunschweigMit freundlichen Grüßeni.A. des Kollektiv Faltenfreis Felix Mayer",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Allgemeine Verwaltung",
+        "vote": "18 von 50"
+    },
+    {
+        "title": "Mittelweg 30km/h Blitzer",
+        "description": "Hallo!Ich habe mich gerade ein bisschen durch die Anregungen hier geklickt und das Gefühl, dass Autos ruhig weiterhin mit 90 km/h durch die Stadt fahren sollen, aber ich probiere es trotzdem einmal:Am Mittelweg ist auf Grund baulicher Gegebenheiten ein 30 km/h Bereich. In diesem Bereich fahren ca. 80 % der Autos gerne mal die zwei- bis dreifache Geschwindigkeit. Jede Person kann das innerhalb von 10 Minuten dort selbst feststellen. Mal ganz davon ab, dass Radfahrende von jedem zweiten bis dritten Auto zu knapp oder auch mal hupend überholt werden. Mit entsprechenden Verkehrskameras kann man wahrscheinlich innerhalb eines Monats genug Geld einnehmen, um alle Schulen und Brücken in Braunschweig zu sanieren.Beste Grüße,Lucas",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "15 von 50"
+    },
+    {
+        "title": "Parkplatz auf dem Wollmarkt stoppen",
+        "description": "Das Konzept für eine gute Erreichbarkeit der Innenstadt in der Vorweihnachtszeit der Stadt Braunschweig(https://www.braunschweig.de/politik_verwaltung/nachrichten/parken-vorwe…)sieht vor, auf dem Wollmarkt an den Adventssamstagen ca. 40 Parkplätze einzurichten und auszuschildern.Man darf sich die Frage stellen, ob die Forderung des AAi nach mehr Autoparkplätzen in der aktuellen Zeit eines Mobilitätsentwicklungsplanes und der angestrebten Mobilitätswende noch zeitgemäß ist.  Ein Besuch des Weihnachtsmarktes mit Konsum eines Glühweines wäre mit dem 49 € Ticket ohnehin eine bessere Idee als mit dem Auto.Die dort entstehenden 40 Parkplätze sind nicht im Ansatz in der Lage die Anzahl von mehr als 1.000 im Parkhaus Packhof wegfallenden Stellplätze zu kompensieren.Die Anwohnenden werden durch den mit diesem Miniparkplatz zusätzlich induzierten Parksuchverkehr unnötig belastet.Das Konzept für eine gute Erreichbarkeit der Innenstadt in der Vorweihnachtszeit der Stadt Braunschweig beinhaltet eine ganze Reihe an guten Maßnahmen, wie z.B. die Verlängerung von Parkhausöffnungszeiten oder die Einrichtung eines zusätzlichen Park & Ride-Service vom Messegelände aus mit schneller und kostengünstiger Anbindung. Weitere gute Park & Ride-Services bestehen bereits.Solche Maßnahmen sind effektiv und stellen die richtigen Anreize dar währen ein zusätzlicher Parkplatz auf dem Wollmarkt von Vorgestern ist und das falsche verkehrspolitische Signal aussendet.",
+        "status": "Wird bei zukünftigen Planungen berücksichtigt",
+        "tag": "Verkehr",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Push & Pull",
+        "description": "Wenn BS wirklich bis 2030 den Verkehr in der Stadt drastisch verringern möchte, muss das Autofahren unattraktiver sein als alle anderen Verkehrsmittel.Ein wirksames Mittel zeigen uns die Niederländer. Der Kernbereich (in BS alles innerhalb der großen Ringes) wird in Viertel eingeteilt. Autofahrende, die von einem Viertel in ein anderes wollen, müssen immer über den Ring fahren. Nur Öffis, Radfahrende und zu Fuß gehende können die Viertelgrenzen queren. Die Parkhäuser innerhalb des Rings können über die derzeitigen Hauptstraßen (z.B. Celler Straße, Wendenstaße, Fallersleber Straße, Museumsstraße etc.) direkt angefahren werden. Allerdings nur zweistreifig und nicht für Durchgangsverkehr geeignet, z.B. Lange Straße ist aus beiden Richtungen nur bis zum Meinhardshof befahrbar. Dadurch wird viel Raum gewonnen, der von allen anderen Verkehrteilnehmern genutzt werden kann (breite Fußwege, „bike lanes“, Busspuren).",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "21 von 50"
+    },
+    {
+        "title": "Mühlentrift Verkehr, Tempo 30, Anlieger Frei",
+        "description": "Sehr geehrte Damen und Herren,auf der Straße Mühlentrift in Rautheim hat sich leider eine Unsitte eingebürgert, dass mehrmals täglich Hunde mit dem Auto durch ihre Besitzer zur Wabe gefahren werden, um dort ihr Geschäft zu verrichten. Dadurch fahren auf der Mühlentrift Fahrzeuge mehrmals täglich unnötig hin und her.Des Weiteren versuchen Fahrzeughalter aus umliegenden Gemeinden die Mühlentrift als Abkürzung zu nutzen und fahren diese hin und zurück, ohne auf die L625 zu gelangen.Da die Höchstgeschwindigkeit von 30 Km/h in vielen Fällen nicht eingehalten wird, entstehen Gefahren für Mensch und Tier. Die auf der Straße aufgebrachte 30 im oberen Bereich ist leider an einer völlig falschen Stelle aufgebracht worden und verfehlt ihren Sinn und Zweck zu 100%.Aus den genannten Gründen würde ich die Idee die Mühlentrift zur Anlieger Straße zu erklären als ausreichend begründet sehen. Anderenfalls wären z.B Fahrthinderer oder Bauliche Maßnahmen sehr wünschenswert.MfGM. Riesner",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "23 von 50"
+    },
+    {
+        "title": "Ponyclub Querum e.V.",
+        "description": "Der Ponyclub Querum beherbergt kranke und alte Ponys. Kinder und Jugendliche können hier erlebnispädagogisch den Umgang und die Fürsorge für diese Ponys mit gestalten.Leider hat die Stadt Braunschweig diesen Zweck nicht anerkannt, so dass es hier keine Fördermöglichkeiten gibt. Das bedeutet nun, dass dieser wundervolle Ort der Begegnung von Mensch und Tier möglicherweise bald seine Türen schließen muss. Dies wäre für viele Kinder und Jugendliche ein herber Verlust. Auch die Ponys würden ihr Zuhause verlieren sowie die einzige Möglichkeit für ein pferdewürdiges Leben.Unüberbrückbare bürokratische Hürden könnte die Stadt Braunschweig ganz einfach aus dem Weg räumen.Wir rufen auf: Meldet euch, wenn ihr euch mit der Materie auskennt und uns unterstützen wollt!https://www.ponyclubquerum.de/",
+        "status": "Die Idee wird den politischen Gremien zur Entscheidung vorgelegt",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Fahrradstraße Wilhelm-Bode-Straße und Karl-Marx-Straße mit Vorfahrt",
+        "description": "Als zentrale Straßen können die Wilhelm-Bode-Straße und Karl-Marx-Straße eine gute und schnelle Verbindung auf der Nord-Süd-Achse im östlichen Ringgebiet bieten. Durch die vielen Rechts-vor-links-Kreuzungen ist hier jedoch ein zügiges Vorankommen oft nicht möglich.Daher möchte ich folgende Maßnahmen vorschlagen:1. Ausweisung von Wilhelm-Bode-Straße und Karl-Marx-Straße als Fahrradstraßen inkl. Kreuzung der Jasperallee2. Durchgehende Markierung der Fahrradstraße (Beispiel aus Göttingen siehe Bild. Quelle: ADFC auf den Fildern)3. Ausweisung der gesamten Strecke (inkl. der Kreuzung Jasperallee) als VorfahrtsstraßeMit diesen drei Maßnahmen würde eine einfache und attraktive 1,3km lange Radschnellverbindung durch das östliche Ringgebiet geschaffen werden, welche potentiell durch die Erweiterung in die Hartgerstraße und Georg-Westermann-Allee bis zum Bahnhof führen kann.",
+        "status": "Die Idee wird den politischen Gremien zur Entscheidung vorgelegt",
+        "tag": "Verkehr",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Gefahrenstelle auf dem Ringgleis",
+        "description": "Am Ringgleis gibt es eine gefährliche Stelle an der Kreuzung Varrentrappstraße/Ringgleis.Radfahrer, die auf dem Ringgleis von der Celler Straße aus Richtung Hamburger Straße fahren, haben Dank eines Busches keine Chance, die Einmündung der Varrentrappstraße auf der rechten Seite des Ringgleises zu sehen. Fahrradfahrer, die von dort kommen und das Ringgleis überqueren, leben somit gefährlich, weil schnelle Radfahrer nicht damit rechnen, dass an dieser Stelle eine Vorfahrt von rechts ist.Habe genau an dieser Stelle selbst einen Unfall gesehen, bei dem eine ältere Dame zu Schaden kam. Beim erneuten Abfahren der Strecke wurde deutlich, dass die Einmündung für Radfahrer gänzlich unsichtbar ist.Ein Zurückstutzen des Busches oder ein klares Schild \"Achtung! Querung\" kann die Sicherheit an dieser Stelle leicht erhöhen.Lieben Dank für die Aufmerksamkeit!P.S.: Es wäre super, wenn der Stadtplan hier wieder eingebunden wird, damit man solche Stellen nicht umfangreich beschreiben muss. Ebenso wäre es klasse, wenn man wieder Fotos hochladen könnte, weil man mit einem Foto deutlich hätte zeigen können, was das Problem ist.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "7 von 50"
+    },
+    {
+        "title": "Aufsteller mit Ladeninfos für den Handelsweg",
+        "description": "Eine der ältesten Einkaufspassagen des Landes voller Historie mausert sich derzeit wieder zu einer zauberhaften Gasse, in der der Einzelhandel aus unterschiedlichsten Bereichen sowie Gastronomie floriert, u.a. Schmuck, Spiele, Kunst und Kaffee.Leider ist von den zwei Seiten außerhalb des Handelsweges nicht erkennbar, welche Geschäfte und gastronomischen Angebote sich überhaupt in der kleinen Gasse befinden.Ein freistehender, befestiger Aufsteller in direkter Nähe zum Eingang an der Görderlinger Straße sowie einer auf der Breiten Straße mit einer Liste der Läden und Angebote oder deren Logos würde zum neuen Konzept des Handelsweges passen und den (ausschließlich) inhabergeführten Geschäften darin mehr Sichtbarkeit inmitten der Innenstadt verschaffen.Wir freuen uns auf viele Unterstützer und die Ideen der Stadt Braunschweig!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Bauen und Planung",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Stadtkindergarten/Krippe",
+        "description": "Leider sind viele Frauen, die arbeiten, oft benachteiligt, da Sie irgendwann im Laufe ihres Lebens in Elternzeit gehen müssen, da Sie Kinder bekommen. Finanziell wird es meist schwierig für Mütter, sodass Sie nach einem Jahr oder spätestens zwei Jahren wieder arbeiten wollen. Dies ist immer schwierig, da Sie oft vielleicht keinen Krippenplatz bekommen, ein Platz zu teuer ist, sodass sich das arbeiten nicht mehr lohnt, oder sich einfach keine andere Betreuung für ihr Kind finden. Ferner fallen viele Frauen öfter in ihrem Berufsleben aus, weil das Kind nicht betreut werden kann oder die Krippe ausfällt oder eben auch Personalmangel herrscht. Meine Idee wäre es, für die Stadt einen sogenannten \"Betriebskindergarten\" oder eine \"Betriebskrippe\" einzurichten, wo sich die Mütter für anmelden können, sobald sie schwanger sind. Einen Beitrag kann man hierfür ebenfalls leisten, sodass beispielsweise 100,00 Euro vom Gehalt der Mutter abgezogen werden. So hat die Stadt etwas davon und die Mütter sparen Geld, da eine Krippe außerhalb viel mehr kostet. Ebenfalls ist das Kind immer in unmittelbarer Nähe, sodass man sich Wege spart und schneller auf der Arbeit sein kann. Mütter steigen auch viel früher ins Arbeitsleben ein, da Sie eine Betreuung für ihr Kind auf der Arbeit haben und sind so auch motivierter zu arbeiten, da ihre Kinder in guten Händen sind. Lasst uns die moderne Stadt Braunschweig sein und so etwas einrichten. Für die Zukunft - für die Mütter - für die Gleichberechtigung!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Schule und Kultur",
+        "vote": "3 von 50"
+    },
+    {
+        "title": "Bringzone für die Realschule Maschstraße",
+        "description": "Die Realschule Maschstraße ist in einer engen und dicht beparkten Straße gelegen. Zu Schulbeginn herrscht hier morgens reger Verkehr da viele Eltern ihre Kinder bringen. Da im Normalfall keine Parkplätze vorhanden sind, halten viele Eltern \"nur kurz\" mitten auf der Straße, stellen sich quer in Einfahrten o. ä. Außerdem passieren viele gefährliche Wende- und Überholmanöver.Es sollte analog zu den anderen Pilotprojekten in Braunschweig eine Bringzone für die Eltern eingerichtet werden um die gefährliche Situation zu entschärfen. Diese Bringzone könnte z. B. am Maschplatz entstehen.",
+        "status": "Wird bei zukünftigen Planungen berücksichtigt",
+        "tag": "Verkehr",
+        "vote": "9 von 50"
+    },
+    {
+        "title": "Mehr Bewohnerparkplätze in der Maschstraße",
+        "description": "Anfang dieses Jahres wurden in der Straße Inselwall neue Parkzonen ausgewiesen die nur mit Parkscheinen für max. 3 h beparkt werden dürfen. Dies hat dazu geführt dass die vormals stark beparkte Straße nun fast vollständig frei von parkenden Autos ist. Da die Leute trotzdem noch parken müssen, weichen sie auf die umliegenden Gebiete aus: hiervon ist seit ein paar Wochen die Maschstraße als direkte Nachbarstraße sehr betroffen. Die vormals angespannte aber akzeptable Parksituation hat sich dort schlagartig deutlich verschlechtert.Die Anwohnerparkflächen sollten dort ausgeweitet werden um dieser neuen Situation Rechnung zu tragen und zumindest für die Anwohner die Parksituation erträglicher zu machen.",
+        "status": "Wird bei zukünftigen Planungen berücksichtigt",
+        "tag": "Verkehr",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Verkehrssichere Max-Planck-Str",
+        "description": "Der Strassenkreis Max-Planck-Str und Einsteinstrasse sollte wenn möglich zu einer Einbahnstraße werden. Aufgrund der Vielzahl geparkten Autos auf der Straße ist ein vorbeifahren mit Gegenverkehr unmöglich. Die Straße ist sehr uneinsichtig (vor allem, wenn die Büsche nicht gestutzt wurden). Es gibt kaum Ausweichmöglichkeiten, wenn welche da sind, sind diese meist zu eng um mit dem Auto hineinzufahren.Leider gibt es eine Vielzahl an Fahrern, welche sich an einem vorbeizwengen und es kurz vor einem Zusammenstoß kommt.Ich bitte darum, die Straße Verkehrssicherer zu machen.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "10 von 50"
+    },
+    {
+        "title": "Nachhaltigere und effizientere Grünflächenbewässerung",
+        "description": "Hallo,ich beobachte schon länger die Bewässerungsaktivitäten im Löns Park.Ich finde die Aktivitäten sind sehr ineffizient, arbeitsintensiv und nicht nachhaltig.Mit einer einfachen Umstellung der Bewässerungstechnik könnte hier eine erhebliche Verbesserung erzielt werden.Hintergrund:Selbst bei sengender Sonne wird hier im manuellen Beregnungsverfahren bewässert, indem ein Mitarbeiter eine Sprühberegnung mit einer Wasserlanze durchführt.> Der Vorgang dauert sehr lange> Ein Großteil des aufgebrachten Wassers verdunstet bevor es den Boden erreicht hat> Die Pumpe verursacht Lärm und weitere EmissionenVorschlag:Einfacher wäre die Bewässerung mit einem oder mehreren  Schläuchen mit ausreichendem Querschnitt, die am Boden der Beete entlanggezogen würden und durch die das Wasser allein durch die Schwerkraft aus dem Wassertank fließt.> Effizienter Einsatz des Wassers unterhalb der Pflanzendecke > reduzierte Verdunstung> Schnellere Bewässerung der einzelnen Beete> Keine Pumpe notwendig > kein Lärm, keine Emissionen",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "9 von 50"
+    },
+    {
+        "title": "Braunschweig braucht einen Wasserspielplatz!",
+        "description": "Braunschweig braucht einen Wasserspielplatz!In ganz Braunschweig gibt es keinen Wasserspielplatz (Ausnahme die Wassersäule in der Weststadt) obwohl die ganze Stadt von Wasser umgeben ist.Gerade im Sommer mit Kleinkindern ist so eine Erfrischung Gold wert. Dies bestätigen die tausenden Wasserspielplätze in ganz Deutschland und den Nachbarländern.Natürlich ist so ein Wasserspielplatz aufwendiger und teurer als eine Rutsche und eine Schaukel, aber viele andere Städte zeigen, dass es möglich ist und anscheinend auch bezahlbar.Laut dem Portal \"www.spielplatznet.de&quot; bieten Städte in der Umgebung teilweise sogar mehrere Wasserspielplätze ihren Bürgern an. Hierzu gehört WF, WOB, SZ, GF oder auch Wendeburg.Es muss nicht so ein toller Wasserpark wie in Salzgitter oder Wolfsburg werden, ein einfacher Wasserspielplatz würde schon mal reichen.Somit hier der Antrag nach einem Wasserspielplatz in Braunschweig.Als möglichen Ort wäre der Spielplatz am Inselwall (Löbbeckes Insel) gut geeignet oder auch der Bereich um das Petriwehr.Vielen Dank",
+        "status": "Die Idee wird den politischen Gremien zur Entscheidung vorgelegt",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Verkehrsspiegel Kreuzung Karl-Hintze-Weg und Mittelriede",
+        "description": "Sehr geehrte Damen und Herren,an der vorgenannten Kreuzung kommt es immer wieder zwischen Verkehrsteilnehmern auf dem Fahrrad oder Fußgänger zu Problemen, da die Kreuzung nicht einsehbar ist. Seit kurzer Zeit häufen sich dort auch Autofahrer, die vermutlich zu den anliegenden Gärten gelangen wollen. Ein Verkehrspiegel würde die Kreuzung einsehbar machen und gefährliche Situationen vermeiden, insbesondere vor dem Hintergrund, dass entlang dem Karl-Hintze-Weg auch der Radweg vom Ringleis gelegen ist und an dieser Kreuzung vorbeifahren, sodass dieser Weg häufig auch von Anwohnern aus Querum genutzt wird, um stadteinwärts mit dem Fahrrad zu gelangen. Insbesondere weil die Querumer Straße keinen ordentlichen Fahrradweg und aufgrund der vielen Schlaglöcher und parkenden Fahrzeuge sowie des Verkehrs eine für Fahrradfahrer nicht befahrbahre Fahrbahn aufweist, wird vorgenannte Kreuzung häufig befahren. Der Verkehrsspiegel dürfte daher eine geeignet, aber auch erforderliche Maßnahme zur Vermeidung von gefährlichen Situationen sein und aufgrund der vergleichsweise geringen Kosten auch eine verhältsmäßige Maßnahme darstellen.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Halteververbot auf der Altmarkstr. in Höhe Auf dem Anger",
+        "description": "Es kommt hier zu gefährlichen Situationen.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Einbahnstraße Wilhelmsgarten",
+        "description": "Die Straße im Wilhelmsgarten ist viel zu eng für 2 Fahrspuren, Fahrzeuge begegnen sich sehr oft und es kommt zu gefährlichen Begegnungen auch für Fußgänger ist die Fahrbahn gefährlich. Eine Einbahnstraßenregelung wäre sinnvoll.",
+        "status": "Umgesetzt",
+        "tag": "Verkehr",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Einbahnstraße St.-Ingbert-Straße zur Lärmreduzierung",
+        "description": "Guten Morgen,um den Lärm des Durchgangsverkehrs in der St.-Ingbert-Straße zu minimieren und die Anwohner zu entlasten, möchte ich vorschlagen, dort eine Einbahnstraßenregelung einzuführen.Dies würde den Verkehrsfluss optimieren, da entgegenkommende Fahrzeuge nicht mehr warten müssen und somit würde der Lärm welcher durch das Abbremsen, Warten und Anfahren entsteht, vermieden werden.Auch würden teilweise kritische Situationen im Kreuzungsbereich der Ottweilerstraße, Saarstraße, St.-Ingbert-Straße verhindert  und somit die Sicherheit für fahrende und gehende Verkehrsteilnehmer verbessert werden.Ein weiterer Punkt wäre, dass die größte Menge des Verkehrs über die baulich breitere Saarstraße fließen und so der \"Nicht-Anlieger\"-Verkehr in der St.-Ingbert-Straße reduziert werden würde.Viele Grüße",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "7 von 50"
+    },
+    {
+        "title": "Tiny House Fläche erstellen",
+        "description": "In Braunschweig ist Wohnraum teuer und rar. Besonders, da sehr viele alleine oder zu zweit wohnen und es den Familien noch schwerer machen. (Kein Vorwurf!)Es gibt die Möglichkeit eines Tiny Hauses mit wenig Fläche und günstig in der Anschaffung. Aber wohin zur Dauernutzung?Planungen dazu gibt es zu genüge im Rathaus, brachliegende Flächen in Hand der Stadt Braunschweig ebenso. Nur ernsthaft verfolgt wird es offensichtlich nicht.Die \"Idee\" dient dazu, der Stadt aufzuzeigen, dass tatsächlich Interesse und Bedarf besteht!",
+        "status": "Wird bei zukünftigen Planungen berücksichtigt",
+        "tag": "Bauen und Planung",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Installation einer Strassen/wegbeleuchtung",
+        "description": "Die ursprünglich vorgesehene Strassen/Wegbeleuchtung Leimenweg Ecke Heidelberstrasse wurde nicht installiert. Dadurch ist der weg vom Wendehammer Heidelbergstrasse zur nächsten Starssenbeleuchtung Leimenweg 35 völlig dunkel. Dieser Stichweg ist aber ein beliebter Weg für Fußgänger und ?Radfahrer im Winter aber ohne Taschenlampe nicht begehbar-Sturzgefahr!!Kann die ursprünglich geplante Strasenbeleuchtung - evtl .incl. Ladesäule für E-Fahrzeuge - nicht installiert werden?",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Recht, Sicherheit und Ordnung",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Weiteres Angebot des Braunschweiger Schülertickets für 15 Euro",
+        "description": "Sehr geehrte Damen und Herren,mit Drucksache 23-20932 vom 26.04.23 teilt die Verwaltung mit, dass aufbauend auf den  VRB-Gesellschafterbeschluss auch das bestehende Angebot für das Braunschweiger Schülerticket bis zum 31.12.2023 verlängert wird.Wir vom Stadtelternrat Braunschweig wünschen uns, dass das bestehende Angebot (des Braunschweiger Schülertickets für 15 Euro)  auch darüber hinaus bestehen bleibt. Auch nach einer Einführung eines niedersachsenweit gültigen Schülertickets!In wiederholten Gesprächen mit Eltern von Braunschweiger Schülerinnen und Schülern wurde ein sehr hoher Bedarf am Erhalt des Braunschweiger Schülertickets für 15 Euro formuliert.Die Gründe dafür sind vielfältig, wobei die Kosten für das Ticket und somit die ausreichende Deckung der individuellen Bedarfe an Mobilität häufig geäußert wurden.Mit freundlichen GrüßenDer (erweiterte) Vorstand des Stadtelternrates Braunschweig",
+        "status": "Umgesetzt",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Mehr Bewohnerparkplätze am Burgundenplatz",
+        "description": "Aufgrund der begrenzten Anzahl an Bewohnerparkplätzen am Burgundenplatz wird es für die Anwohner besonders schwierig, einen Parkplatz zu finden, insbesondere wenn Eintracht Braunschweig spielt, da Fans dazu neigen, sämtliche verfügbaren Parkflächen zu belegen. Daher schlage ich vor, zusätzliche Bewohnerparkplätze auszuweisen.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "3 von 50"
+    },
+    {
+        "title": "Hinweisschild Einsatzfahrzeug Salzdahlumer Straße",
+        "description": "An der Kreuzung Salzdahlumer Straße/Auf- und Abfahrt A39 ( Google Koordinaten 52.23907109013435, 10.540401884998523) gibt es eine Vorrangschaltung für Einsatzfahrzeuge (z.B. Feuerwehr). Ist die Vorrangschaltung aktiv, werden bestimmte Fahrtrichtungen auf Rot gesetzt. Diese Rotphase dauert mitunter (gefühlt) sehr lange. Immer wieder beobachte ich, dass während einer solchen Rotphase Fahrzeugführer ungeduldig werden und bei Rot die Kreuzung passieren. Auch ist es mir schon selber passiert, dass ich vorne an der Haltelinie stand und die Fahrzeugführer hinter mir versucht haben mich durch Hupen zu Bewegen los zu Fahren. Dadurch entsteht eine Drucksituation! Wütende Fahrzeugführer haben an meine Autoscheibe geklopft und mich gebeten los zu Fahren da die Ampel wohl kaputt sei. Eine Erklärung meiner Seits auf die Vorrangschaltung wurde nicht angenommen. Meine Lösung: Ein sichtbares Hinweisschild bei aktiver Vorrangschaltung anbringen.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Sichere Überquerungsmöglichkeit am Campus Forschungsflughafen",
+        "description": "Bei einem Universitäts-Campus sollte es sich um einen zusammenhängenden, integralen Komplex an Orten und Gebäuden handeln, an dem verschiedene Einrichtungen von Forschung und Lehre zusammenwachsen können. Diesem Anspruch wird der Campus Forschungsflughafen bis heute leider nicht gerecht. Grund dafür ist die Hermann-Blenk-Straße, die mit ihrem regen Berufs- und Werksverkehr den Campus ohne sichere Überquerungsmöglichkeit für die Menschen dort durchschneidet. Beiderseits der Straße liegen Uni-Einrichtungen wie Institute, Hörsääle und die Mensa, sowie Parkplätze und Bushaltestellen, sodass Mitarbeitende und Studierende die Straße z.T. mehrmals täglich überqueren müssen. Die Überquerungen finden in den Wintermonaten häufig im Dunkeln statt, zudem ist die Einsehbarkeit im Bereich östlich des NFF durch einen leichten Schlenker im Straßenverlauf sowie parkende Autos am Straßenrand zum Teil erheblich eingeschränkt. Ohne sichere Überquerungsmöglichkeit wie Fußgängerüberweg oder -Ampel entsteht hier ein Gefahrenpotential, das im Widerspruch zu den Anforderungen an einen Campus, auf dem sich die Menschen wohl fühlen, steht. Die Stadtverwaltung sowie die politischen Gremien werden daher aufgefordert, eine Prüfung der Situation vorzunehmen und auf die Realisierung einer Querungsanalge hinzuwirken. Die Wünsche und Vorstellungen der Studierenden und Mitarbeitenden der Universität und der anliegenden Firmen hinsichtlich Ort und Art der Umsetzung sollen dabei berücksichtigt werden.",
+        "status": "Die Idee wird den politischen Gremien zur Entscheidung vorgelegt",
+        "tag": "Verkehr",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Parkplätze Adventsgeschäft - Forderung AAI",
+        "description": "In der Braunschweiger Zeitung bzw. deren Online Auftritt wurde in einem Artikel (https://www.braunschweiger-zeitung.de/braunschweig/article239878121/Bra…) mehr Parkplätze für das Weihnachtsgeschäft gefordert.Gibt es hier nicht eine andere Lösung als mehr Parkflächen auszuweisen?Denn die Stadt insgesamt ist schon ziemlich \"zugeparkt\" und die unübersichtlichen Stellen für Rad- und Fußverkehr nehmen eher zu als ab. Besteht die Möglichkeit, die P+R Anbindung für die Adventssamstage auszuweiten (HarzHeide Gelände, Parkhaus Forschungsflughafen) und in der Innenstadt an günstig gelegenen Stellen Einkaufsaufbewahrungen einzurichten, die mit dem ÖPNV Ticket nutzbar sind. Hier sollen die Einkäufe aufbewahrt werden, so dass die Konsument:innen unbeschwert und ohne Tütenschleppen einkaufen können. (Was auch das Werbestichwort der Aktion wäre: \"unbeschwert einkaufen\"!)Da der Weihnachtsmarkt um 21 Uhr schließt müsste eine Öffnung bis 21:30 gewährleistet sein, zumindest würde ich es mir wünschen, um nach dem Einkauf noch eine Runde über den Weihnachtsmarkt zu machen ohne all die Sachen die man eventuell bereits gekauft hat.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Wirtschaft",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "§ 37 Hilfe bei Verwaltungsangelegenheiten Infoveranstaltung",
+        "description": "Die Bürger und Bürgerinnen der Stadt Braunschweig sollten besser über die Möglichkeit Informiert werden Hilfe bei Verwaltungsangelegenheiten zu bekommen. Wenn nicht die Bürger dann zumindest die Mitarbeiter und Mitarbeiterinnen der Stadtverwaltung.Dafür könnte man die Social Media Kanäle der Stadt Braunschweig nutzen.Gerne auch als \"Meme\", dies scheint ja auf Instagramm sehr beliebt zu sein.Die Gemeinden sind ihren Einwohnerinnen und Einwohnern in den Grenzen ihrer Verwaltungskraft dabei behilflich, Verwaltungsverfahren einzuleiten, auch wenn sie für deren Durchführung nicht zuständig sind.Leider erfährt man hier oft Ablehnung mit den Hinweis \"Da ist Abteilung XY zuständig\" oder \"Den Antrag müssen Sie schon ausgedruckt und ausgefüllt dabei haben, wir haben keine Zeit\"Die Gemeinden haben Vordrucke für Anträge, Anzeigen und Meldungen bereitzuhalten, die ihnen von anderen Behörden überlassen werden.Vielen Dank!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Allgemeine Verwaltung",
+        "vote": "7 von 50"
+    },
+    {
+        "title": "Veloroute und Parkplatzsituation Helmstedeter Straße",
+        "description": "Bei der Vorstellung der Planung zur Veloroute Helmstedter Straße und der Straßenerneuerung Helmstedter Straße zwischen Parkstraße/ Adolfstraße und Kastanienallee ist derzeit vorgesehen, dass alle Parkplätze in diesem Bereich wegfallen. Als  direkt betroffenen Anwohner ersuchen wir Planende und Politik dringend hier eine Lösung vorzusehen.Es gäbe die Möglichkeit, Anwohnerparken in der direkten Umgebung (z.B. in einem Bereich zwischen Jasperallee, Altewiekring, Kastanienallee und Helmstedter Straße) auszuweisen und dort, wie auf der westlichen Seite der Helmstedter Straße einen Parkscheibenbereich einzurichten.Eine Alternative wäre, die Straße als Einbahnstraße einzurichten, um so im vorhandenen Raum Parkplätze erhalten zu können - solche Planungen hat es bereits gegeben.Die Parkplatzsituation in diesem Bereich ist bereits jetzt sehr angespannt, nicht zuletzt die durch die beiden Schulen an der Hochstraße und die Helene Engelbrecht Schule. Auch der geplante Wegfall der Parkplätze an der Museumsstraße wird zu eine Verschärfung führen.Ohne eine belastbare Lösung ist für direkt Anwohnende ist diese Planung absolut unbefriedigend und ärgerlich.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "3 von 50"
+    },
+    {
+        "title": "Pflege /Gestaltung Grünanlagen",
+        "description": "Unsere Böden verarmen, die Artenvielfalt nimmt dramatisch ab. Jeden Beitrag zur Belebung des Bioms im Boden kommt uns zugute. Deshalb möchte ich vorschlagen, dass in Parks und auf Grünflächen unter Bäumen und Sträuchern und zusätzlichen Flächen, Laub grundsätzlich liegen gelassen wird.Zusätzlich schlage ich vor zu prüfen, in welchen Bereichen unnötig Blätter entfernt werden, weil sie weder ein Unfallrisiko darstellen, noch die Fläche anderweitig genutzt wird (z.b. Prinzenpark entlang der Fußballplätze  und asphaltiertem Weg).Den Bäumen und Sträuchern würde so ihre natürliche Nährstoffversorgung zurück gegeben und das Bodenleben gefördert, ohne dass es Nachteile für die Menschen hat. Weiterhin schlage ich vor, dass die Grünflächenpflege grundsätzlich neue Konzepte insbesondere auf die Ästhetik bezogen, entwickelt und umsetzt, die sich an natürlichen Prozessen (z.B. Stoffkreisläufen) und Lebensräumen ausrichtet und nicht ausschließlich an Konzepten der (historischen) Parkgestaltung.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "29 von 50"
+    },
+    {
+        "title": "Aufrüstung Broitzemer Spielplätze für Kleinkinder",
+        "description": "Broitzem hat einige schöne Spielplätze. Allerdings gibt es keinen einzigen Spielplatz, der ein eigenständiges klettern und rutschen für Kleinkinder ab einem Jahr vereint. Die kleinen Entdecker wollen doch auch mal mehr, als nur im Sand zu spielen oder in der Nestschaukel zu sitzen. Solche Spieltürme gibt es beispielsweise auf dem Südspielplatz Prinzenpark, Spielplatz Förster-Langheld-Str oder auf dem Spielplatz Hermann-Löhns Park. Vielen Dank!",
+        "status": "Laufend",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "7 von 50"
+    },
+    {
+        "title": "Geschwindigkeitsschwellen Holzmindener Straße",
+        "description": "Wie vermutlich auch das Messgerät bestätigt hat wird die Geschwindigkeit 30 auf der Holzmindener Straße sehr häufig überschritten. Es wäre daher außer Anwohner Sicht schön wenn Maßnahmen dagegen ergriffen werden.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "13 von 50"
+    },
+    {
+        "title": "App Dorffunk",
+        "description": "Guten Tag,besteht die Möglich die App Dorffunk für den Ortsteil Leiferde einzuführen?",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Allgemeine Verwaltung",
+        "vote": "18 von 50"
+    },
+    {
+        "title": "Ort für Grafitty und Tags statt Beschmieren im östlichen Ringgebiet",
+        "description": "Grafitty und Tags haben in den letzten 12 Monaten im östlichen Ringgebiet zugenommen. Das Viertel wird zusehends hässlicher.Muss das sein?Fühlen wir uns hier wohl?Möchten wir in einem BS-EastEnd leben?Gibt es nicht die Möglichkeit Orte zu schafen, an denen Jugendliche kreativ sein können statt die eh schon hässlichen und uniformen Straßen zu beschmieren?",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Petristraße für Radfahrer optimieren",
+        "description": "Von der Goslarschenstraße kommend ist die Petristraße eine Einbahnstraße. Für Radfahrer ist sie in beide Richtungen frei. Kommt man als Radfahrer aus Richtung Cellerstraße ist dies jedoch lebensgefährlich, da kein Autofahrer dies auf dem Schirm hat. Ich hatte hier schon so viele brenzlige Situationen, dass ich den Bereich zu Stoßzeiten umfahre.1.) Kreuzung Rudolfstr/Thomaestr/Petristr: für Linksabbieger aus Richtung Rudolfplatz ist es nicht ersichtlich, dass Radfahrer geradeaus fahren.2.) Auf der Petristr fehlen rote Markierungen die zeigen könnten, dass Radfahrer von beiden Seiten fahren können. Im oberen Teil der Petristr gibt es diese roten Markierungen.Außerdem wäre so ein Überholen-Verboten Schild, wie es jetzt in der Straße „Hintern Brüdern“ steht, hier äußerst hilfreich, da es viel zu eng ist zum Überholen und eh nur 30km/h erlaubt sind.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "11 von 50"
+    },
+    {
+        "title": "Haltestelle extrem unsicher",
+        "description": "Die Haltestelle Rautheimer Straße in Fahrtrichtung westen bzw. Südtstadt ist aktuell extrem unsicher, da es sich de facto nur um ein Schild auf der Fahrbahn handelt. Ein normaler Bordstein würde hier schon wunder wirken! Ich fordere deshalb hiermit, die Haltestelle so umzubauen, das ein klare Trennung zwischen Wartebereich der Haltestelle und Fahrbahn sichtbar ist. Diese Trennung muss auch einen physischen Charakter haben!Sollte die Begründung des nicht-Handelns sein, dass ja sowieso bald ein Straßenbahn statt dem Bus in der Nähe halten wird (-> Stadtbahnausbau), so sehe ich dies nicht als zufriedenstellend an. Es gibt bis heute kein klares Eröffnungsdatum; und -ja, wirklich- glaubt man der Projektwebseite stadt-bahn-plus.de , so hat sich seit 2019 nichts getan.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Recht, Sicherheit und Ordnung",
+        "vote": "7 von 50"
+    },
+    {
+        "title": "Umwandlung des alten Galaria-Gebäudes in ein Parkhaus",
+        "description": "Entfachen Sie das pulsierende Herz von Braunschweig mit einer zukunftsorientierten Vision: Die Reinkarnation des ikonischen Galaria-Gebäudes als innovatives Parkhaus! In einer Ära, in der urbane Mobilität neu definiert wird, präsentiert sich eine goldene Gelegenheit, unseren Besuchern, Shoppern und Touristen eine nahtlose und bequeme Reiseerfahrung zu bieten. Dieses moderne Parkhaus wäre ein Leuchtfeuer für eine dynamische, wirtschaftliche Blüte der Stadt. Durch die Bereitstellung zusätzlichen Parkraums könnten wir die Anziehungskraft unserer wunderschönen Stadt vergrößern und eine willkommene Umgebung für Handel, Kultur und Gastfreundschaft schaffen, die den Geist von Braunschweig für Generationen lebendig hält.",
+        "status": "Keine Zuständigkeit der Stadtverwaltung",
+        "tag": "Wirtschaft",
+        "vote": "1 von 50"
+    },
+    {
+        "title": "„Sichtschutz“ an RadfahrerInnenampel Ecke Gliedmaroder Str./Böcklinstr. für Autofahrende",
+        "description": "Bald wöchentlich erlebe ich, dass Autofahrende bei grünem Ampelsignal der Radfahrendenampel auch anfahren, obwohl die Ampel für Autofahrende weiterhin rot leuchtet. Dies stellt nicht nur einen Rotlichtverstoß dar, sondern ist für linksabbiegende Radfahrende eine Gefahr, da diese auf der Straße fahren müssen und so in die Abbiegespur der Autos geraten.Mein Vorschlag wäre eine Blende an der linken Seite der Radfahrendenampel, sodass das Lichtsignal von Autofahrenden nicht eingesehen werden kann.An dieser Stelle möchte ich erwähnen, dass ich grundsätzlich die zeitversetzte Ampelschaltung und farbliche Markierung des Radstreifens hervorragend finde und hier lobend nennen möchte.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "14 von 50"
+    },
+    {
+        "title": "Sensorgesteuerte Ampelschaltung Ringgleis/Celler Straße",
+        "description": "An der Hildesheimer Straße gibt es am Ringgleis Sensoren, die die Anforderung  für grün schon deutlich vor der Ampel regelt. Diese Steuerung funktioniert sehr gut.An der Celler Straße sollte für das Ringgleis ebenfalls so eine Sensorsteuerung aufgebaut werden.Denn dort ist der Aufstellplatz an der Ampel viel zu klein! Gerade aus der Richtung Ernst-Amme-Straße steht man zwangsläufig mitten auf dem Radweg um den Drücker zu erreichen.Zusätzlich sollten zusätzliche Ampelphasen eingerichtet werden, da es gerade morgens sehr lange dauert, bis Hildesheimer und Celler Straße überquert werden können - und das bei sehr überschaubarem Verkehr auf den Straßen!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "20 von 50"
+    },
+    {
+        "title": "Gesundheits- und Rehazentrum im Galeria-Gebäude",
+        "description": "Das Gebäude für ein Gesundhets- und Rehazentrum umbauen. Kinderärzte, Logopäden, Ergotherapeuten, Podologiepraxis, geriartrische Praxis, medizinische Bäderabteilung, Krankengymnastikg, ein Schwimmbad für Wassergymnastik u.a. Therapien, Beratungsbüros der Krankenkassen(gesetzlich und private!), Pflegeberatung  ein kleines Bistro und eine RuheraumAlles unter einem Dach. Die Lage ist genial, mit Bus & Bahn bestens erreichbar, Parkhaus fußläufig.In der oberen Etage sind ohnehin schon Arztpraxen, unten eine Apotheke. Also warum nicht das gesamte Gebäude für Gesundheits- und Rehazwecke nutzen.Der Bedarf dafür ist groß, die Wege um von einer Praxis in die andere zu gelangen durch die ganze Stadt lang. Das Ganze müsste aber absolut barrierefrei sein, auch die Zugänge. Und vor allem mit bezahlbaren Mieten für die Nutzer.",
+        "status": "Keine Zuständigkeit der Stadtverwaltung",
+        "tag": "Wirtschaft",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Parkplätze Querum",
+        "description": "Guten MorgenSeit dem Bau des Neubaugebietes in Querum ist es für Anwohner sehr schwierig bis nicht möglich einen Adäquaten Parkplatz zu bekommen. Ist es Möglich das hier Anwohnerparkplätze oder zumindest mehr Möglichkeiten zum Parken geschaffen wird?Mit besten Dank für die Überprüfung im voraus.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Basketballplatz erneuern am Spielplatz Hohetorwall",
+        "description": "Der kleine Basketballplatz gegenüber dem Holwederkrankenhaus am Spielplatz Hohetorwall, könnte ein kleines und schönes Upgrade gebrauchen.. viele Kinder und Jugendliche bis hin zu erwachsenen können nicht vernünftig spielen, weil der Naturboden huckelig und ungleichmässig ist. Zudem steht der Metallkorb komplett schief was das spielen kaum möglich macht.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "9 von 50"
+    },
+    {
+        "title": "100 künstlerisch gestaltete Bänke für Braunschweig!",
+        "description": "In Braunschweig gibt es zahllose Bänke mit toller Aussicht, wie das Projekt „100 Bänke“ von Monika Heim und Walter Lükewille zeigt:https://braunschweig.adfc.de/artikel/100-baenkeUm diese langfristig zu verschönern, wünsche ich mir die Errichtung/Umgestaltung von 100 künstlerisch gestalteten Bänken über einen Zeitraum von 10 Jahren.Begründung:* Förderung der Kunst und Kultur: Lokale Künstlerinnen und Künstler erhalten eine Plattform, ihre Werke im öffentlichen Raum zu präsentieren, was das kulturelle Leben bereichert.* Verbesserung der Lebensqualität: Öffentliche Sitzgelegenheiten bieten Erholungsmöglichkeiten und fördern das Verweilen und Begegnen.* Stärkung der Gemeinschaft: Kunst im öffentlichen Raum stärkt das Gemeinschaftsgefühl und lädt zur aktiven Mitgestaltung der Umgebung ein.* Steigerung der Attraktivität der Stadt: Künstlerisch gestaltete Bänke ziehen Einheimische und Besucher an und können den Tourismus und die lokale Wirtschaft fördern.Umsetzung:* Zeitlicher Rahmen: 10 Jahre mit 10 Bänken pro Jahr.* Finanzierung: Bezirkliche und kommunale Mittel, zusätzlich dazu kommunales Crowdfunding und Sponsoring zur Entlastung des städtischen Haushalts.* Beteiligung der Künstler: Offene Ausschreibung für lokale und überregionale Künstlerinnen und Künstler. Beteiligung von Kindern und Jugendlichen ist ausdrücklich erwünscht!* Öffentliche Abstimmung: Beteiligung der Bürgerinnen und Bürger bei der Designauswahl.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "18 von 50"
+    },
+    {
+        "title": "Warnschilder vor der neuen Querungshilfe An der Rothenburg",
+        "description": "Am Straßenübergang des Verbindungswegs zwischen der Illerstraße und der verlängerten Marienberger Straße wurde südseitig eine Querungshilfe errichtet, die in gut ein Drittel der Fahrbahn ragt und zur Zeit nur durch mobile Warnbaken gesichert ist. Um diese Fahrbahnverengung besser abzusichern, schlage ich die Aufstellung eines Warnschildes Nr. 121 vor.",
+        "status": "Umgesetzt",
+        "tag": "Verkehr",
+        "vote": "4 von 50"
+    },
+    {
+        "title": "Beleuchtung Ringgleis",
+        "description": "Wie wäre es mit ein paar Leuchten auf dem Ringgleis Abschnitt Hamburger Straße bis Bienroder Weg?!Dort sind viele Leute unterwegs, auch von den Supermärkten und wegen der euen Aktivitätsfläche.Ggf PV Led Laternen. Über die Stromspeichergröße könnte die Leuchtdauer wegen Lichtverschmutzung begrenzt werden. Muss auch nicht besonders helles Licht sein, aber aktuell ist es sehr dunkel.Ggf an der Aktivitätsecke mit Handy oder Radladerstation integriert",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "28 von 50"
+    },
+    {
+        "title": "Hinweisschild für Radfahrer beim Überholen von Fußgängern auf dem gesamten Ringgleis",
+        "description": "WAS? Hinweisschilder für Radfahrer beim Überholen von Fußgängern von mindestens einem Meter Mindestabstand.WO? Gesamtes Ringgleis.WESHALB? Fußgänger werden von Radfahrern auf dem Ringgleis zu oft mit zu geringem Sicherheitsabstand und zu hohem Tempo überholt, das führt zu einem Unsicherheitsgefühl auf Seiten der Fußgänger. Die vorhandenen Hinweisschilder „Gemeinsam – Mit Rücksicht...“ verfehlen die gewünschte Wirkung und müssen durch eingängige Schilder ersetzt werden.WIE? Neue und niederschwellige Hinweisschilder, ähnlich einem mit Piktogrammen versehen Verkehrsschild, sollen auf einem Blick Radfahrer darauf hinweisen Fußgänger mit einem Mindestabstand von einem Meter zu überholen.WARUM? Der Radverkehr nimmt auf dem Ringgleis immer mehr zu und muss daher auch geregelt werden. Durch den Austausch der vorhandenen Schilder „Gemeinsam – Mit Rücksicht...“ durch eingängige und niederschwellige Schilder soll ein gegenseitiges Selbstverständnis für das Sicherheitsempfinden auf beiden Seiten erzeugt werden. Dies trägt zur Sicherheit aller Ringgleisbenutzer bei und entschärft ein vorhandenes Problem.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Ein Zebrastreifen für den Handelsweg",
+        "description": "Der Handelsweg ist eine der beliebtesten Straßen Braunschweigs und eine der ältesten Handelspassagen Europas. Räumlich liegt er leider etwas versteckt und ist durch die Görderlingerstraße von der Innenstadt abgetrennt.Ein Zebrastreifen an der Görderlingerstraße würde den Zugang zum Handelsweg vereinfachen. Die verkehrliche Situation an der Görderlingerstraße ist leider unübersichtlich, da Radfahrer von beiden Seiten kommen, und Fußgänger, welche die Straße überqueren, nicht damit rechnen, dass Radfahrer, die aus der Neuen Straße kommen, rechts abbiegen. Ebenso entschleunigt ein Zebrastreifen den Verkehr, wodurch sich die Sicherheit der Radfahrer erhöht. So schreibt ein Radfahrer bei der Online-Beteiligung zum Radverkehr: \"Trotz deutlicher Markierungen werden Radfahrer von Autos regelmäßig übersehen, wenn sie auf dem schon markierten Radweg entgegen der Einbahnstraße fahren.\"Ich wünsche mir daher einen Zebrastreifen vor dem Eingang zum Handelsweg!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "16 von 50"
+    },
+    {
+        "title": "Fahrradständer und grüner Pfeil für Fahrräder",
+        "description": "Sehr geehrte Damen und Herren,ich wohne in der WIlhelm-Raabe-Straße und muss zunehmend zur Kenntnis nehmen, dass Fahrräder nicht auf den Grundstücken der Mehrfamilienhäuser (auch aus Platzmangel) abgestellt werden. Stattdessen werden die Fahrräder an die Bäume bzw. auf den Baumkranz gestellt, da es dort durch den Anfahrschutz eine sehr gute Möglichkeit des Anschließens gibt. Der Baumkranz wird zweckentfremdet und die Optik leidet. Wir haben in der Straße, aus meiner Sicht, mehrere Standorte (z.B. an der Ecke zur Georg-Westermann-Allee) um geeignete Fahrradständer bzw. diese Bügel um die Fahrräder anschließen zu können, zu installieren. In der Adolfstraße und anderen gibt es diese bereits und daher fühlt man sich als Bürger 2. Klasse. Es ist ja auch nur die  Wilhelm-Raabe-Straße. Bitte prüfen Sie die Umsetzung.Darüber hinaus tut sich Braunschweig mit der Installation von Grünen Pfeilen für Fahrräder sehr schwer und das ist nicht zu verstehen. Warum muss ich als Rechtsabbieger an einer gut einsehbaren Ampelkreuzung warten obwohl nichts kommt? So z.B. an der Kreuzung vor dem Marienstift, aus der Georg-Westermann-Allee kommend.Fahrradfreundlich ist Braunschweig noch lange nicht, auch wenn sich einiges getan hat. Wenn aber der Schwerpunkt auf den Ausbau des Ringgleises gelegt wird, bleiben für andere Dinge vermutlich keine Gelder übrig.Dennoch bitte ich um Prüfung der Ideen.Herzlichen Dank.Thomas Nagler",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "24 von 50"
+    },
+    {
+        "title": "Autos versperren Fußweg",
+        "description": "In der Else-Hoppe-Straße gibt es einen Übergang für Fußgänger, auf dem fast täglich Autos unrechtmäßig parken (siehe Bild). Dieser Übergang ermöglicht Personen, die zu Fuß, mit dem Fahrrad, mit dem Kinderwagen oder mit dem Rollstuhl unterwegs sind, die Straße an der Stelle sicher und bequem zu überqueren. Hier ist der Bordstein abgesenkt und auch ist der Verkehr gut einsehbar.Ich bitte darum, dass auf diesem Übergang ein Poller errichtet wird, damit dort nicht mehr Autos zu unrecht parken und ich als Mutter mit dem Kinderwagen nicht unnötige Umwege laufen muss. Falls dies nicht möglich ist, wäre ich dankbar wenn mehr Kontrollen durch das Ordnungsamt erfolgen könnte.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "17 von 50"
+    },
+    {
+        "title": "Fahrradparkhaus Innenstadt",
+        "description": "Hallo zusammen,mr ist aufgefallen, dass es in niederländischen Städten häufig kostenlose Fahrradparkhäuser in den Innenstädten gibt, in denen man sein Rad bewacht abstellen kann. In BS ist mir so eine Einrichtung nur am HBF bekannt.Ich schlage vor, in geeigneten Leerständen in der Innenstadt (ehem. Horten/Galeria, Burgpassage, Karstadt Gewandhaus bis zur Umnutzung) eine derartige Einrichtung zu schaffen.",
+        "status": "Die Idee wird den politischen Gremien zur Entscheidung vorgelegt",
+        "tag": "Verkehr",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Verwaiste Einkaufswagen",
+        "description": "In vielen Stadtteilen in Braunschweig gehören wild abgestellte Einkaufswagen mittlerweile zum alltäglichen Stadtbild. Vereinzelt abgestellt oder mehrere in Gruppen führen zu  Behinderungen auf dem Gehweg/ Parkplätzen, werden als Müll- oder Sperrmüllablage genutzt und führen so zu einem unschönen Anblick im Viertel. Es wäre schön, wenn die Stadt mit dem Einzelhandel kooperieren könnte. Als Vorbild könnte die Stadt Hanau dienen, die bereits eine Kooperation mit dem Ziel „Wiederverwenden statt Entsorgen“ etabliert hat und ein erstes positives Fazit ziehen konnte. Der Einzelhandel profitiert von der Kooperation und bemüht sich aktiver, dass die unerlaubte Entwendung weniger wird.",
+        "status": "Umgesetzt",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Anpassung Strahler Dom/Münzstraße",
+        "description": "Der Strahler am Gebäude der BLSK Richtung Dom hängt so tief, dass er Fußgänger und Fahrzeuge auf der Münzstraße blendet. Das gefährdet Fußgänger und Radfahrer am Dom/Rathaus.Die Ausrichtung sollte korrigiert werden.",
+        "status": "Umgesetzt",
+        "tag": "Verkehr",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "T- Kreuzung Hordorfer Str. L 633/ Schapen/Weddel K41 ist lebensgefährlich",
+        "description": "Christopher Suchert starb hier am 28.06.2023 durch einen abbiegenden Linienbus der ihm die Vorfahrt nahm.Die bisherige Vorfahrtsregelung ist unzureichend.Wir, Familie Suchert, Verwandte, Freunde, Bekannte, Nachbarn und weitere Betroffene, fordern eine offensichtliche und sichere Vorfahrtsregelung zum Schutz aller Verkehrsteilnehmer!Dies kann durch einen Kreisverkehr, vorzugsweise durch Ampeln und angepasste Geschwindigkeitsbegrenzungen einfach ermöglicht werden.Was ist ein Menschenleben wert ?",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Schulweg von Grundschüler: Monatskarte ohne 2km Entfernung",
+        "description": "Hallo zusammen,die aktuelle Situation ist folgende: Ist die Entfernung zwischen Schule und Wohnung kleiner als 2km, dann gibt es keine Schülermonatskarte, um mit Bus/Bahn zur Schule zu gelangen. Dies gilt für Grundschüler ebenso wie für Schüler*innen weiterführender Schulen.Unsere Forderung: Für Grundschüler sollte die Entfernungsgrenze von 2km auf 1km (oder weniger) reduziert werden, damit (alle) Grundschüler insbesondere in der dunklen Jahreszeit bei Bedarf mit Bus/Bahn zur Schule gelangen können.Ein Beispiel: Schülerinnen und Schüler der Grundschule Querum mit Wohnung im Querumer Forst unterschreiten häufig die 2km-Grenze (knapp). Hier müssen die Grundschulkinder im Dunkeln entlang der viel befahrenen Bevenroder Straße langlaufen (an der sich zudem kaum ein motorisiertes Fahrzeug an die 50km/h hält). Die Nutzung des Busses ist daher auch Sicherheitsaspekten klar zu bevorzugen.Viele GrüßeDaniel Scholz",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "30 von 50"
+    },
+    {
+        "title": "Fahrradständer",
+        "description": "Um die Verkehrssicherheit bei der Ausfahrt von den Grundstücken Aschenkamp 15, 15a, 15b sowie den Fahrzeugen die auf dem Nebenweg vom Mittellandkanal kommen zu gewährleisten, schlage ich 3 Bügel für Fahrräder vor. Diese Bügel könnten an der Stelle angebracht werden, wo gerade der VW-Up steht.Somit ist eine wesentlich bessere Sicht bei der Ausfahrt aus dem Nebenweg gegeben.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "5 von 50"
+    },
+    {
+        "title": "Lehmanger sicherer machen!",
+        "description": "Der Lehmanger muss sicherer gemacht werden. Man braucht auf beiden Seiten einen Fuß/Radweg, sowie sollte es eine 30 Zone sein, da die Autos da so lang rasen.Für Kinder und Fahrräder mit Fahrrad anhänger ist dort sehr gefährlich. Muss dort erst etwas schlimmes passieren bevor sich etwas ändert?Vielleicht kann man vom Ringleis einen Abzweig der sich bis zu den Gärtnerhöfen zieht .",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "18 von 50"
+    },
+    {
+        "title": "Petition: Verbesserung des Skateparks am Westbahnhof in Braunschweig zum 10-jährigen Jubiläum",
+        "description": "Hey Leute!Wir, das Team vom Skatepark am Westbahnhof, brauchen eure Unterstützung! Anlässlich seines 10-jährigen Jubiläums möchten wir unseren Skatepark sicherer und cooler gestalten.Der Skatepark ist für uns wie ein zweites Zuhause, doch in letzter Zeit wurde es hier etwas gefährlich und eng. Die Rampen und Hindernisse sind in schlechtem Zustand. Gemeinsam haben wir einen Plan entwickelt, um den Park sicherer gestalten und dabei den Spaß maximieren zu können.Wir möchten aktiv mitwirken. Mit fast 10 Jahren Erfahrung vor Ort können wir bei der Planung und Umsetzung tatkräftig unterstützen.Unsere Wünsche:1. Wir möchten den Skatepark punktuell verbessern und dabei den vorhandenen Platz effizienter nutzen, um mehr Sicherheit und Spaß zu ermöglichen.2. Uns liegt die Sicherheit der Kinder besonders am Herzen, die oft unbeaufsichtigt auf der Skatebahn spielen. Hier brauchen wir Unterstützung, z.B. durch Beschilderung und Markierungen zur besseren Orientierung.3. Infrastrukturell benötigen wir ausreichend Mülleimer, mehr alternative Sitzgelegenheiten und einen Trinkbrunnen.4. Wir möchten mehr Verantwortung übernehmen und bitten um Unterstützung, z.B. durch Bereitstellung von Reinigungsutensilien.Wenn ihr denkt, dass unser Skatepark sicherer und cooler sein sollte, dann unterschreibt unsere Petition! Gemeinsam zeigen wir, dass die Skate-Community in Braunschweig zusammenhält.Mit sportlichen Grüßen,Team Skatepark am WestbahnhofKontakt:skateparkwestbhf@gmail.com",
+        "status": "Umgesetzt",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Lärmschutzwand A39 Geitelde",
+        "description": "Fast täglich, den ganzen Tag und in der Nacht ist der Straßenverkehr der A39 deutlich zu hören und zieht bis in das Dorf hinein. Eine Lärmschutzwand an der A39 wie in Rüningen wäre durchaus sinnvoll. Einen Erweiterung bis SZ- Thiede.",
+        "status": "Keine Zuständigkeit der Stadtverwaltung",
+        "tag": "Verkehr",
+        "vote": "1 von 50"
+    },
+    {
+        "title": "Rad und Fußweg Lehmanger Richtung Donauviertel",
+        "description": "Das Ringgleis sollte von der Hebbelstraße in Richtung An den Gärtnerhöfen, sprich die Straße Lehmanger, weiter geführt werden. Es gibt keinen sicheren Radweg um zb mit Kindern den Lehmanger zu befahren. Außerdem rasen viele Autos dort lang und es liegt viel Müll (eventuell auch Mülleimer aufstellen)",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "14 von 50"
+    },
+    {
+        "title": "Zuwegung Bhf. Gliesmarode einladend randbepflanzen",
+        "description": "Der umgebaute Bhf. Gliesmarode ist seit nunmehr über einem Jahr in Betrieb. Der Zugangsbereich im Vorfeld des Bahnhofsportals vermittelt leider seither eine lieb- und trostlose Atmosphäre. Denn es fehlt an gestalterischen Elementen: Lediglich eine Asphaltierung des vorbeiführenden Ringgleisweges und des kurzen Zugangsstückes zum Bahnhofsportal wurde durchgeführt, mehr nicht. Somit liegen an den Rändern der Fläche noch Bauschotter und weitere kleine vom Wegebau übriggebliebene Restgegenstände herum. Der Wegebau kam bisher also noch nicht zu einem qualifizierten Abschluss. Betroffen sind das kurze Stück (ca. 50 Meter) Ringgleisweg zwischen Gehweg im Norden und Beginn der Baumvegetation im Süden sowie die ca. 10 Meter Anbindung des Bahnhofsportals. Zuständig für das Gelände ist die Stadt.Unsere Anregung:An den Rändern der Asphaltfläche niedrige Bepflanzung ausbringen, vielleicht ca. 80 cm hoch. Denn die Einsehbarkeit muss aus Sicherheitsgründen gewährleistet sein, und Angstraum-Gefühle sollen vermieden werden. Die Maßnahme sollte unverzüglich realisiert werden, ohne auf die für später erwarteten Baumaßnahmen für einen angrenzenden Jugendplatz und ein Gebäude zu warten.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "15 von 50"
+    },
+    {
+        "title": "„Spielstraßen“ beruhigen",
+        "description": "In den gemeinhin genannten „Spielstraßen“ (eigentlich verkehrsberuhigter Bereich) ist Schrittgeschwindigkeit vorgeschrieben. Diese wird von den meisten Autofahrenden nicht eingehalten oder viele denken, dass sie hier 30 km/h fahren dürfen.Vorschlag: Gummischwellen, die fast über die gesamte Straßenbreite reichen (damit Radfahrende am Rand oder in der Mitte noch daran vorbei bzw. durch fahren können), wiederkehrend aufbringen.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "11 von 50"
+    },
+    {
+        "title": "Skaterbahn Mutter Kind Spielplatz",
+        "description": "Die Fläche am Mutterkind Spielplatz Lehndorf, bietet auch viel ungenutzte Wiese. Es gab einmal  eine Abfrage zur weiteren Nutzung des Spielplatzes. Eine Idee wäre, auf der Grünfläche neben dem Basketballplatz eine Skaterbahn für Kids zu bauen.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Soziales, Jugend und Gesundheit",
+        "vote": "5 von 50"
+    },
+    {
+        "title": "Überprüfung und Aktualisierung von Verkehrsschildern",
+        "description": "In unserer Stadt gibt es viele Verkehrsschilder, insbesondere Halteverbote und Parkplatzbeschilderungen, die inzwischen nicht mehr zeitgemäß sind. Ein Großteil dieser Beschilderungen erscheint überflüssig und nutzlos, und es wäre möglicherweise sinnvoll, sie an anderer Stelle besser aufzustellen oder sogar zu entfernen.Ein konkretes Beispiel für solch eine überholte Verkehrsbeschilderung ist das Absolute Halteverbot mit der Einschränkung \"Lieferung frei\" in der Nähe eines Geschäft. Leider hat das Geschäft, auf das sich diese Lieferung bezog, schon seit Jahren geschlossen, und der Laden steht seitdem leer. Infolgedessen wird die besagte Verkehrsbeschilderung nicht mehr benötigt und trägt lediglich zur Verwirrung der Verkehrsteilnehmer bei.Wir bitten Sie daher höflich, eine umfassende Überprüfung der Verkehrsschilder in unserer Stadt durchzuführen. Es könnte sinnvoll sein, veraltete oder nicht mehr relevante Schilder zu entfernen und gegebenenfalls neue Schilder aufzustellen, um die Verkehrssituation in unserer Stadt zu optimieren und sicherer zu gestalten.Wir sind uns bewusst, dass die Aktualisierung von Verkehrsschildern Zeit und Ressourcen erfordert, sind jedoch überzeugt, dass dies zur Verbesserung der Verkehrssicherheit und zur Vereinfachung der Verkehrsregelung beitragen kann.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "9 von 50"
+    },
+    {
+        "title": "Markierung Radweg Kreuzung Steinweg/Ritterbrunnen",
+        "description": "An der Kreuzung Steinweg/Ritterbrunnen kommt es immer wieder zu brenzligen Situationen, wenn Fußgänger den Übergang zur Wilhelmstraße nutzen wollen.Der Radweg ist nicht gut zu erkennen, wenn man nur nach vorne schaut und auch das Dunkelgrau setzt sich nicht gut ab. Für Auswärtige ist das auch schlecht zu wissen. Somit stehen oft Leute auf dem Radweg und Radfahrer aus Richtung Münzstraße/Sparkasse müssen ausweichen.Hier wäre es toll, wenn das Stück wie zuletzt bei anderen Radwegen rot gekennzeichnet wird. Das könnte die Situation entschärfen.Vielen Dank im Voraus für eine Prüfung.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "20 von 50"
+    },
+    {
+        "title": "Begrenzung des Verkehrs auf der Münzstraße",
+        "description": "Da die Parkplätze Waisenhausdamm/Münzstraße sowieso kontinuierlich reduziert werden und es damit für Anwohner immer schwerer wird zu parken oder zu liefern würde ich die Zufahrt auf Anlieger begrenzen. Die verbliebenen Parkplätze könnten in Anwohnerparkplätze und Halteflächen umstrukturiert werden. Die Zufahrt zu den Geschäften für Lieferung und Abholung würde erhalten bleiben, der Verkehr minimiert und die \"Poser\" Tour Bohlweg-Waisenhausdamm-Münzstraße-Rathaus eingeschränkt.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "13 von 50"
+    },
+    {
+        "title": "Farbliche Markierung von Parkflächen",
+        "description": "Hallo,die Parksituation wird immer komplexer im Stadtgebiet. Vor allem für Verkehrsteilnehmer, die nicht regelmäßig in einem Bereich der Stadt unterwegs sind, ist es schwierig zwischen freien Parkflächen, Sperrflächen, Bewohnerparkbereichen und Bereichen mit Parkscheinparken zu unterscheiden.Vorschlag:Farbliche Markierung des Randsteins oder des Parkbereichs, zum Beispiel wie folgt:- weiße Linien für freie Parkflächen (neutral / frei)- rote Linien für Sperrflächen (Signalfarbe)- gelbe Linien für Parkverbote oder Kurzzeitparkmöglichkeiten- grüne Linien für Parkscheinbereiche- blaue Linien für Bewohnerparkbereiche- lila Linien für Handwerker / LogistikfahrzeugeFür Rückfragen stehe ich gerne zur Verfügung.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "3 von 50"
+    },
+    {
+        "title": "Unterirdischer Rebenring",
+        "description": "Die Kreuzung Hamburger Str. / Rebenring ist der Braunschweiger Hotspot für Verkehrslärm. Noch tiefgreifendere Maßnahmen sind dringend erforderlich. Der Vekehr sollte hier falls möglich (teilweise) in Tunnel verlegt werden.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "2 von 50"
+    },
+    {
+        "title": "Hundeplatz Melverode",
+        "description": "Auf einem Teil der ehemaligen Bezirkssportanlage Melverode, wurde 2023 ein Pumptrack gebaut. Im südlichen Bereich ist noch eine Fläche frei, die gut zu einem Hundeplatz ertüchtigt werden könnte. Dazu müsste auf einer Seite noch ein Zaun ergänzt werden (3 Seiten sind schon zu) und eine Tür/Toranlage ergänzt werden (Zugang zum Rasen mähen!). Die Tür evtl. mit einer \"Schleuse\", damit frei laufende Hunde nicht gleich weglaufen können. Dazu noch ein großer Müllbehälter. Im Süden Braunschweigs gibt es meiner Kenntnis nach keine ausgewiesene Freilauffläche für Hunde, was den Auslauf der Vierbeiner gerade in der Leinenzwangzeit erschwert. Da die Fläche etwas entfernt von Wohnbebauung liegt und durch den Pumptrack sowieso eine erhöhte Lautstärke zu erwarten ist, sollte Hundegebell auch kein Problem sein.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Fahrtrichtung auf dem Radweg klar festlegen",
+        "description": "Auf dem Radweg vom J.F. Kennedy-Platz auf der Kurt-Schumacher-Straße Richtung Bahnhof kann auf der Seite zum Löwenwall hin in beiden Richtungen gefahren weg. Anfänglich - also direkt nach dem J.F. Kennedy-Platz weisen auch Pfeile auf die beiden Fahrtrichtungen hin, dann wieder der Radweg aber immer enger. Ich fahre dort täglich, und es kommt täglich bei Begegnungen mit anderen Rädern zu gefährlichen Situationen, vor allem hinter der Okerbrücke auf dem Teilstück zur Adolfstrasse. Es gibt ja aber ja bereits auf der anderen Seite der Kurt-Schumacher-Strasse einen ordentlichen Radweg Richtung Hauptbahnhof. Warum also diese Gefahr bei Begegnungen von Rädern akzeptieren? Besser wäre es, den Radweg vom J.F.-Kennedy Richtung Adolfstrasse nur in einer Richtung befahren zu lassen! Irgendwann verletzt sich dort sonst jemand schwer!",
+        "status": "Umgesetzt",
+        "tag": "Verkehr",
+        "vote": "5 von 50"
+    },
+    {
+        "title": "Kaffee am Ölpersee",
+        "description": "Sehr geehrte Damen und Herren, der Ölpersee ist ein wunderbarer Ort. Leider gibt es aber immer noch keine Möglichkeit dort mal einen Kaffee, einen Tee oder ein anderes Getränk zu bekommen.Ein kleines Cafe wäre super gut, aber da werden sich ja wieder einzelne Anwohner dagegen wehren. Vielleicht wäre es aber möglich einen mobilen Kaffeeausschank zuzulassen.viele Grüße apo",
+        "status": "Abgelehnt",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Einführung eines Blitzersystems mit Audiosensoren",
+        "description": "Mein Vorschlag orientiert sich an einem schon im In- und Ausland in Verwendung befindlichem System zur Erkennung lauter Geräusche im Straßenverkehr und soll folgendes Problem adressieren:Trotz der Einführung zahlreicher Tempo 30 Zonen in dicht besiedelten Gebieten der Innenstadt, bleibt das bewusste Übersteuern des Motors eine signifikante Lärmquelle, welche auch geschwindigkeitsunabhängig zu äußerst störendem und vor allem unnötigem Verkehrslärm führt.Mein Lösungsvorschlag dieses Problems sieht die eine Adaption eines sogenannten Lärmblitzers vor. Jener wird meines Wissens bereits aktiv in den Niederlanden als auch Frankreich genutzt und in einigen deutschen Städten wie Berlin und Frankreich erprobt. Dessen Funktionsweise ergibt sich aus seinem Namen, stellt aber im wesentlichen ein Gerät dar, welches Mikrofone und Kameras zur Identifizierung von Verkehrsteilnehmern und deren ausgestoßenen Lärm vereint. Man kann hier auf bereits vorhandene Systeme und Erfahrungswerte zurückgreifen und müsste nach einer konzeptionellen Ausarbeitung geeignete Teststellen für diese Geräte identifizieren. Ich würde bezüglich dieser vor allem für die Güldenstraße und den Bohlweg werben. Nach der Einführung würde durch zu verhängende Bußgelder sich das System nach einer gewissen Zeit sogar selbst finanzieren.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "17 von 50"
+    },
+    {
+        "title": "Anmeldeportal Stadt Braunschweig",
+        "description": "Neulich las ich, wie sehr die Forschung unsere Region zu schätzen weiß. Jede:r weiß, dass Forschung international ist. In vielen Forschungsgebieten ist dementsprechend die einheitliche Sprache Englisch. Unsere Forscher:innen stehen hier im „Behördendschungel“ Deutschlands vor sehr großen Herausforderungen.Bislang bietet die Internetpräsenz der Stadt Braunschweig ausschließlich touristische Inhalte auf Englisch an. Unsere Region lebt von der Internationalität ihrer Einwohner:innen und allem, was sie mitbringen. Und diese sind alles andere als nur auf Stipvisite hier.  Sie wohnen hier, sie arbeiten hier, sie leben hier. Und viele bleiben für immer. Sie sind keinen Tourist:innen.Ich bitte um Unterstützung meines Appells an die Stadtverwaltung, dass es ein guter Anfang wäre, das Anmeldeportal (Terminvergabe) englisch aufrufbar zu machen.Vielleicht gibt es weitere Ideen für das Voranbringen der Internationalisierung. Dann schreibt hier eure Vorschläge in die Kommentare.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Allgemeine Verwaltung",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Leipziger Straße entlang keine Sitzbänke",
+        "description": "Ich wohne in Stöckheim und gehe oft die Leipziger Straße Melverode – Stöckheim entlang.Keine Bank an der langen Straße, um sich mal zu setzen und zu verweilen.Vor der Kirche in Melverode steht zwar eine Bank, aber leider auf dem Rasen, den man nur über einen Bürgersteigsims erreichen kann. Schlecht für Rollatoren oder Rollstuhlfahrer. Die Rollstuhlfahrer brauchen keine Bank, aber evtl. die Begleitung.Kurze Zeit stand ein (wohl privat hingestellte) Bank Ecke Kirchplatz / Leipziger Straße, dass war toll!",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Salzdahlumer Straße digitales Hinweisschild zur Vorrangschaltung",
+        "description": "An der Kreuzung Salzdahlumer Straße/Auf- und Abfahrt A39 ( Google Koordinaten 52.23907109013435, 10.540401884998523) gibt es eine Vorrangschaltung für Einsatzfahrzeuge (z.B. Feuerwehr). Ist die Vorrangschaltung aktiv, werden bestimmte Fahrtrichtungen solange auf Rot gesetzt, bis die Einsatzfahrzeuge diesen Bereich passiert haben.Diese Rotphase dauert mitunter sehr lange. Immer wieder beobachte ich, dass während einer solchen Rotphase Fahrzeugführer ungeduldig werden und bei Rot die Kreuzung passieren. Auch ist es mir schon selber passiert, dass ich vorne an der Haltelinie stand und die Fahrzeugführer hinter mir versucht haben mich durch Hupen zu Bewegen, trotz Rot, los zu Fahren. Dadurch entsteht eine Drucksituation! Wütende Fahrzeugführer haben an meine Autoscheibe geklopft und mich gebeten los zu Fahren da die Ampel wohl kaputt sei. Eine Erklärung meiner Seits über die Vorrangschaltung wurde da nicht verstanden.Laut ADAC darf man bei einer Rotphase die länger als 5 Minuten dauert einen Defekt vermuten und nach dieser angemessenen Wartezeit trotz Rotsignal vorsichtig weiterfahren. Diese 5 Minuten werden dort öfters überschritten.Meine Lösung:Ein beleuchtetes digitales Hinweisschild anbringen, dass während der aktiven Vorrangschaltung darauf hinweist, dass die Vorrangschaltung aktiv ist. Zum Beispiel mit dem Hinweis \"Feuerwehr\" oder \"Einsatzfahrzeug\"",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "6 von 50"
+    },
+    {
+        "title": "Entlastung der Bevenroder Str.",
+        "description": "Da die Bevenroder Str. unter der Woche durch Autoverkehr stark belastet wird,wäre es sinnvoll zu prüfen ob eine Erstellung einer Entlastungstrasse vom Kreisel Querum zur Berliner Str Höhe Seela möglich sei .",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "0 von 50"
+    },
+    {
+        "title": "Hundeplatz Melverode",
+        "description": "Auf einem Teil der ehemaligen Bezirkssportanlage Melverode, wurde 2023 ein Pumptrack gebaut. Im südlichen Bereich ist noch eine Fläche frei, die gut zu einem Hundeplatz ertüchtigt werden könnte. Dazu müsste auf einer Seite noch ein Zaun ergänzt werden (3 Seiten sind schon zu) und eine Tür/Toranlage ergänzt werden (Zugang zum Rasen mähen!). Die Tür evtl. mit einer \"Schleuse\", damit frei laufende Hunde nicht gleich weglaufen können. Dazu noch ein großer Müllbehälter. Im Süden Braunschweigs gibt es meiner Kenntnis nach keine ausgewiesene Freilauffläche für Hunde, was den Auslauf der Vierbeiner gerade in der Leinenzwangzeit erschwert. Da die Fläche etwas entfernt von Wohnbebauung liegt und durch den Pumptrack sowieso eine erhöhte Lautstärke zu erwarten ist, sollte Hundegebell auch kein Problem sein.",
+        "status": "Laufend",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "25 von 50"
+    },
+    {
+        "title": "Signallampe Straßenbahnquerung",
+        "description": "Ist dies ein Mängel, oder eine Verbesserungsidee?  Lebensgefährlich allemal.Die Signallampe ist für Radfahrende vom Büssing-Ring kommend und auf den W.-Brandt-Platz zufahrend kaum einzusehen, da in Richtung Salzdahlumer Str. ausgerichtet. Die Bahn kommt dann von hinten links, \"optimale\" Voraussetzung also für eine Kollision mit üblen Folgen!!",
+        "status": "Umgesetzt",
+        "tag": "Verkehr",
+        "vote": "5 von 50"
+    },
+    {
+        "title": "Bäume gegen Klimawandel",
+        "description": "Ich möchte vorschlagen, dass auf freien Flächen zwischen Hamburger Straße und Ölper See Bäume gepflanzt werden.Bäume binden Kohlendioxid und tragen zur Stadtkühlung bei.Während der ersten Jahre könnten Leistungsbezieher zu Baumpaten ernannt werden.Darüber hinaus könnte Braunschweig eine landes- und bundesweite Initiative mit selbem Anliegen starten.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "26 von 50"
+    },
+    {
+        "title": "Kein Anwohnerparken im östlichen Ringgebiet",
+        "description": "Alles wird schlechter. Aber das wissen wir alle ja sowieso.Es geht gerade das Gespenst um, dass Anwohnerparken im östlichen Ringgebiet angewendet werden soll. Siehe \"Braunschweiger Zeitung\" von 08.03.24Das heisst, das ganze Viertel wird an jeder Ecke mit Schilder vollgeknallt - so zu sehen am Wall. Im nächsten Schritt können einen Gäste nicht mehr besuchen ohne ein Ticket zu ziehen und zu zahlen. Und dann irgendwann müssen wir Anwohner auch noch für unsere Parkplätze zahlen.Eine Sache ich m.E. noch nicht bis zu allen in dieser Stadt vorgedrungen: Ohne den Konzern mit den zwei Buchstaben, also ohne Auto mit Verbrennermotor, ist in Stadt und Bundesland nichts mehr los. Gar nichts. Das ist der Motor, dass die Menschen hier nicht nur Kartoffeln und Kohl im Winter essen.Stoppt den Irrsinn.",
+        "status": "Abgelehnt",
+        "tag": "Verkehr",
+        "vote": "4 von 50"
+    },
+    {
+        "title": "Verkehrsberuhigung Madamenweg",
+        "description": "Im Bereich des Madamenwegs, beginnend am Millennium Event Center und endend am Raffteichbad, kommt es immer wieder dazu, dass PKWs mit deutlich überhöhter Geschwindigkeit rasen. Dadurch ergibt sich ein großes Risiko der angrenzenden Schule, Bushaltestellen, des Reiterhofes und der Anwohner mit kleinen Kindern.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "15 von 50"
+    },
+    {
+        "title": "Wegbeleuchtung bauen",
+        "description": "In dem Weg Warndtstraße zur Hannoverschenstraße ist der Weg ziemlich dunkel. Dies fällt vorallen jetzt im Winter auf.  Da auf dem weg auch so eine Art Zaun steht wo man durch gehen muss,  kann man diese sogar übersehen.Ich finde dort sollte man eine Beleuchtung bauen damit man vorallen jetztim dunkeln sicher gehen kann.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Recht, Sicherheit und Ordnung",
+        "vote": "7 von 50"
+    },
+    {
+        "title": "Ampelschaltung Hamburger Straße vorm Stadion optimieren",
+        "description": "Die Radfahrer- und Fußgängerampel über die Hamburger Straße zwischen \"Am Galggraben\" und dem Stadion/ der Shell- Tankstelle schaltet sehr Fußgänger und Radfahrer unfreundlich. Es dauert minutenlang, bis nach dem Drücken der Ampel überhaupt etwas passiert (auch wenn weit und breit keine Autos oder Trams in der Nähe sind) und wenn die Ampel dann schaltet, ist dieses meistens nicht durchgehend, das heißt, dass man in der Mitte der Fahrbahn wieder warten und erneut die Ampel drücken muss. So kann man bis zu 5 Minuten damit verbringen, die Fahrbahn an dieser Stelle verkehrssicher überqueren zu wollen. Dafür fehlt den meisten verständlicherweise die Geduld, so dass viele die Fahrbahn völlig entnervt bei Rot überqueren. Zur Verbesserung der allgemeinen Verkehrssicherheit wäre eine Optimierung der Schaltung an dieser Stelle dringend empfehlenswert.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "12 von 50"
+    },
+    {
+        "title": "Ringbus erhalten – das südwestliche Ringgebiet darf nicht abgehängt werden!",
+        "description": "Die BSVG plant eine „Weiterentwicklung des Fahrplanangebots“ ab März, inklusive der „Auflösung des Ringbusses“.Der Ringbus hatte eine selbst für Auswärtige leicht verständliche, verbindende Funktion. Dies soll wegfallen und im südwestlichen Ringgebiet (südlich des Cyriaksrings) bahnt sich eine deutliche Verschlechterung der Mobilität an – gerade dort, wo viele Menschen leben, die auf guten und bezahlbaren öffentlichen Nahverkehr angewiesen sind.Nach 18 Uhr soll nur noch alle 30min ein Bus fahren und nur bis 23 Uhr. Verbindungen am Wochenende bis 3 Uhr entfallen ersatzlos und somit die Möglichkeit, von Harrys Bierhaus, Jugendzentrum Drachenflug, Nexus, WRG Studios, Kunstverein Jahnstraße, Flickwerk, ... möglichst direkt und sicher nach Hause zu kommen. Auch Menschen mit Mobilitätseinschränkungen müssten erst zum Cyriaksring gelangen.Am Wochenende und in den Ferien gilt die halbstündige Taktung nun ganztags. Das erschwert Wege zum Einkaufen, zur einzigen Apotheke, zum Mehrgenerationenhaus, Mütterzentrum oder Ambet.Die direkte Verbindung zum Hauptbahnhof wird erschwert.Die Fahrplanänderungen treffen zahlreiche Einrichtungen sowie Armutsgefährdete, Schichtarbeitende und alle, für die öffentlicher Raum spätabends nicht sicher ist.Einschränkung öffentlicher Mobilität ist keine „Weiterentwicklung“, sondern ein Rückschritt. Die Versorgung muss ausgebaut statt eingeschränkt werden und bezahlbar sein. Dazu können verlässliche, gut ausgeschilderte Ringbuslinien sehr gut beitragen.",
+        "status": "Laufend",
+        "tag": "Verkehr",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Fußgängerüberweg für eine sicherere Grundschule in Querum",
+        "description": "Guten Morgen,vor der Grundschule in Querum gibt es derzeit keine  ausreichend sichere Möglichkeit für Kinder zur Straßenüberquerung.Die ohnehin beengte Straßensituation wird durch Durchgangsverkehr, mit dem Auto bringende Eltern und den städtischen Schülertransport sehr unübersichtlich und somit gefährlich für die Kinder.Zusätzlich erschwert wird der Überblick durch eine angrenzende Kreuzung und diverse Einfahrten.Auch die bemühte Frühaufsicht der Schule kann diese Problematik nicht auflösen.Daher ist es notwendig einen Fußgängerüberweg vor der Schule über den Eichhahnweg einzurichten und zusätzlich in der angrenzenden Straße Wabenkamp (Richtung alte Kirche) nahe dem Kreuzungsbereich.Dies würde die Sicherheit der Kinder erheblich erhöhen!Vielen Dank",
+        "status": "Die Idee wird den politischen Gremien zur Entscheidung vorgelegt",
+        "tag": "Verkehr",
+        "vote": "50 von 50"
+    },
+    {
+        "title": "Rote Radwegmarkierung Münchenstraße/Broitzemer Straße",
+        "description": "Der Radweg an der Münchenstraße im Bereich der Ein- und Ausfahrt zum Gewerbepark am Ende der Broitzemer Straße (Großmarkt) sollte wie an der benachbarten Einfahrt zu Burger King in Rot markiert werden. Radfahrer, die mit Tempo von der Brücke Münchenstraße herunter fahren, können an dieser Stelle von Autofahrern leicht übersehen werden.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "17 von 50"
+    },
+    {
+        "title": "Optimierung Fußgängerampel Ackerstr./Helmstedter Str.",
+        "description": "Die Fußgängerampel Ackerstr./Helmstedter Str. zur mittig liegenden Haltestelle schaltet nur bei Anforderung und auch zu selten auf Grün. Sobald die Autos stadtauswärts auf der Helmstedter Str. Rot haben, sollten die Fußgänger queren dürfen (auch ohne Anforderung).",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "11 von 50"
+    },
+    {
+        "title": "Abstimmungen im Protokoll mit Angabe des genauen Ergebnisses",
+        "description": "In den Protokollen der Stadträte wird bei Abstimmungen nicht immer das genaue Ergebnis angegeben. Es ist im Sinne der Transparenz, dies immer genau anzugeben, auch wenn mehrheitlich eine Abstimmung für oder gegen etwas ist.1. Eine genaue Anzahl ist aussagekräftiger als z.B. eine wage Aussage wie \"beschlossen mit wenigen Gegenstimmen\".2. Eine wage Aussage ist subjektiv.3. Wenige Gegenstimmen, wenige Fürstimmen und Enthaltungen lassen sich leicht und mit äußerst geringem Mehraufwand im Protokoll festhalten.4. Dadurch wird die Transparenz in einer Demokratie gefördert.5. Entscheidungen der Stadt lassen sich leichter für den Bürger nachvollziehen.Beispiel: Abstimmung zum Bebauungsplan Jütenring HA137, \"bei einigen Gegenstimmen beschlossen\",https://ratsinfo.braunschweig.de/bi/to020.asp?TOLFDNR=1082661Die Anzahl der Stimmberechtigten war 11, so dass das genaue Ergebnis bei dieser kleinen Anzahl leicht ermittelt werden kann.",
+        "status": "Abgelehnt",
+        "tag": "Allgemeine Verwaltung",
+        "vote": "14 von 50"
+    },
+    {
+        "title": "Wilhelm-Bornstedt-Weg entlang der Oker besser befestigen",
+        "description": "Der Weg wird zwischen altem Okerarm und Brücke an der Berkenbuschstrasse bei Hochwasser in den nicht asphaltierten Bereichen regelmäßig weg- und überspült. Durch die Beschaffenheit dauert es Monat, bis der Weg aufwändig wieder in einen verkehrssicheren Zustand versetzt wird. Da der Weg entlang der Oker von Radwanderern, Wanderern und auch Berufstätigen als Alternative zum Rüninger Weg genutzt wird,  sollte er, wie andere Bereiche des Weges, eine widerstandsfähigere Oberfläche erhalten.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Verkehr",
+        "vote": "7 von 50"
+    },
+    {
+        "title": "Hundewiese Nußberg",
+        "description": "Es fehlen Sitzbänke entlang des Trimm-Dich-Pfades auf der Hundewiese am Nußberg. Es würden schon 2-3 Bänke reichen um den Hunden beim spielen zuzusehen. An dieser Stelle treffen sich viele Hundebesitzer um ihre Hunde zusammen spielen zu lassen und ihre Erfahrungen auszutauschen. Die Bänke sollten daher auch in Blickrichtung auf den Aussichtsturm Nußberg ausgerichtet sein.",
+        "status": "Zeitraum für Stimmabgabe überschritten",
+        "tag": "Stadtgrün und Umwelt",
+        "vote": "8 von 50"
+    },
+    {
+        "title": "Veranstaltungen richtig Planen",
+        "description": "Moin, in Braunschweig gibt es Viele Veranstaltungen. Allerdings wird nicht immer an alle gedacht. (Zb. Nachtlauf) Es ist alles abgesperrt. Was ist mit den Fahrradfahrern oder auch Essens Lieferanten, die nicht zu ihren eigenen Restaurants kommen. Eventuell kann man dies für die nächsten Veranstaltungen mit einplanen, sodass der Fahrradweg eventuell nicht alles für Fahrradfahrer/-innen  abgesperrt wird, wo da wenigstens der Verkehr für die Fahrrad Fahrer/-innen oder auch Fahrrad Kurierre/-innen nicht aufgehalten wird.",
+        "status": "Wird bei zukünftigen Planungen berücksichtigt",
+        "tag": "Recht, Sicherheit und Ordnung",
+        "vote": "1 von 50"
+    }
+]
