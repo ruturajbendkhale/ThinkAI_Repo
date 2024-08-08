@@ -1,25 +1,55 @@
 from pdfrw import PdfReader
+import json
 
 # Load the PDF
 pdf_path = 'somegermanform.pdf'  # Replace with your PDF file path
 pdf = PdfReader(pdf_path)
 
-# Create a list to hold full radio button texts
-radio_button_full_texts = []
+# Create lists to hold field information
+text_fields = []
+checkboxes = []
+dropdowns = []
 
-# Iterate through the pages and identify radio button fields
+# Iterate through the pages and identify fields
 for page in pdf.pages:
     annotations = page.get('/Annots')
     if annotations:
         for annotation in annotations:
             field_type = annotation.get('/FT')
-            if field_type == '/Btn' and annotation.get('/AS'):
-                # Extract the full text from the /TU or /Alt attribute
-                full_text = annotation.get('/TU') or annotation.get('/Alt')
-                if full_text:
-                    # Clean the full text by removing parentheses
-                    full_text_cleaned = str(full_text)[1:-1]
-                    radio_button_full_texts.append(full_text_cleaned)
+            field_name = annotation.get('/T')
+            tooltip_text = annotation.get('/TU')
+            # Clean field name and tooltip text
+            field_name_cleaned = str(field_name)[1:-1] if field_name else ''
+            tooltip_text_cleaned = str(tooltip_text)[1:-1] if tooltip_text else ''
 
-# Print the full text of radio buttons
-print('Radio Button Full Texts:', radio_button_full_texts)
+            # Classify into form fields
+            if field_type == '/Tx':  # Text Field
+                text_fields.append({
+                    'Field Name': field_name_cleaned,
+                    'Tooltip': tooltip_text_cleaned
+                })
+            elif field_type == '/Btn' and annotation.get('/AS'):  # Checkbox
+                checkboxes.append({
+                    'Field Name': field_name_cleaned,
+                    'Tooltip': tooltip_text_cleaned
+                })
+            elif field_type == '/Ch':  # Dropdown
+                options = annotation.get('/Opt')
+                options_list = [str(opt) for opt in options] if options else []
+                dropdowns.append({
+                    'Field Name': field_name_cleaned,
+                    'Tooltip': tooltip_text_cleaned,
+                    'Options': options_list
+                })
+
+# Save the extracted fields to a JSON file
+extracted_data = {
+    'Text Fields': text_fields,
+    'Checkboxes': checkboxes,
+    'Dropdowns': dropdowns
+}
+output_json_path = 'extracted_fields.json'
+with open(output_json_path, 'w', encoding='utf-8') as json_file:
+    json.dump(extracted_data, json_file, ensure_ascii=False, indent=4)
+
+print(f"Data has been saved to {output_json_path}")

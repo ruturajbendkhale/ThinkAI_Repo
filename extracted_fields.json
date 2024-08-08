@@ -1,0 +1,220 @@
+{
+    "Text Fields": [
+        {
+            "Field Name": "Absenderangaben",
+            "Tooltip": "Geben Sie bitte die Absenderdaten vollständig ein."
+        },
+        {
+            "Field Name": "strasse",
+            "Tooltip": "Geben Sie bitte die Anschrift des betreffenden Grundstückes in Braunschweig \\(Straße, Hausnummer\\) an."
+        },
+        {
+            "Field Name": "Flur",
+            "Tooltip": "Geben Sie bitte die Flurbezeichnung des betreffenden Grundstücks an."
+        },
+        {
+            "Field Name": "Flurstueck",
+            "Tooltip": "Geben Sie bitte die Flurstücksbezeichnung\\(en\\) des betreffenden Grundstücks an."
+        },
+        {
+            "Field Name": "name",
+            "Tooltip": "Geben Sie bitte den Namen und die Vornamen der Antragstellerin/des Antragstellers vollständig an."
+        },
+        {
+            "Field Name": "anschrift",
+            "Tooltip": "Geben Sie bitte die Anschrift \\(PLZ, Ort, Straße, Hausnummer\\) der Antragstellerin/des Antragstellers vollständig an."
+        },
+        {
+            "Field Name": "telefon",
+            "Tooltip": "Geben Sie bitte eine Telefonnummer der Antragstellerin/des Antragstellers für Rückfragen an."
+        },
+        {
+            "Field Name": "email",
+            "Tooltip": "Geben Sie ggf. bitte die E-Mail-Anschrift der Antragstellerin/des Antragstellers an."
+        },
+        {
+            "Field Name": "name",
+            "Tooltip": "Geben Sie bitte den Namen und Vornamen der Eigentümerin/des Eigentümers vollständig an."
+        },
+        {
+            "Field Name": "anschrift",
+            "Tooltip": "Geben Sie bitte die Anschrift \\(PLZ, Ort, Straße, Hausnummer\\) der Eigentümerin/des Eigentümers vollständig an."
+        },
+        {
+            "Field Name": "telefon",
+            "Tooltip": "Geben Sie bitte die Telefonnummer der Eigentümerin/des Eigentümers an."
+        },
+        {
+            "Field Name": "email",
+            "Tooltip": "Geben Sie ggf. bitte die E-Mail-Anschrift der Eigentümerin/des Eigentümers an."
+        },
+        {
+            "Field Name": "datum",
+            "Tooltip": "Geben Sie bitte das Datum \\(Format TT.MM.JJJJ\\) an, an dem die Bauvoranfrage/der Bauantrag gestellt wurde."
+        },
+        {
+            "Field Name": "FormType#1",
+            "Tooltip": "Kurzbezeichnung des Formulartyps"
+        },
+        {
+            "Field Name": "DocType#2",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "SchemaURL#3",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Version#4",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "OfficeShortcut#1",
+            "Tooltip": "Kurzbezeichnung des Kunden"
+        },
+        {
+            "Field Name": "TargetURL#2",
+            "Tooltip": "URL des Gateways"
+        },
+        {
+            "Field Name": "FormURL#3",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Signature#4",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Certificate#5",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "CertificateType#6",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Content#7",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Language#5",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Country#6",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "FormatString#8",
+            "Tooltip": "Listendarstellung in der Inbox"
+        },
+        {
+            "Field Name": "JavascriptArt",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "angaben1",
+            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+        },
+        {
+            "Field Name": "angaben2",
+            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+        },
+        {
+            "Field Name": "angaben3",
+            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+        },
+        {
+            "Field Name": "angaben4",
+            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+        },
+        {
+            "Field Name": "angaben5",
+            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+        },
+        {
+            "Field Name": "datum",
+            "Tooltip": "Geben Sie bitte das Datum im Format TT.MM.JJJJ an."
+        }
+    ],
+    "Checkboxes": [
+        {
+            "Field Name": "Pg1_Obj40",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "errichtung",
+            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme die Errichtung, Änderung oder Nutzungsänderung einer baulichen Anlage ist."
+        },
+        {
+            "Field Name": "veraenderung",
+            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme die Veränderung der baulichen Anlage ist."
+        },
+        {
+            "Field Name": "beseitigung",
+            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme die Beseitigung baulicher Anlagen ist."
+        },
+        {
+            "Field Name": "baulast",
+            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme eine Baulast gemäß § 144 Abs. 2 Nr. 4 ist."
+        },
+        {
+            "Field Name": "teilung",
+            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme die Teilung von Grundstücken ist."
+        },
+        {
+            "Field Name": "vereinbarung",
+            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme schuldrechtliche Vereinbarungen/Verträge über den Gebrauch oder die Nutzung auf unbestimmte Zeit über ein Jahr hinaus beinhaltet."
+        },
+        {
+            "Field Name": "sonstige",
+            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme bislang nicht aufgeführt ist bzw. eine sonstige ist."
+        }
+    ],
+    "Dropdowns": [
+        {
+            "Field Name": "Gemarkung",
+            "Tooltip": "Wählen Sie bitte die Gemarkung in der das betreffende Grundstück liegt aus der aufklappbaren Liste aus.",
+            "Options": [
+                "['(1)', '(Altewiek)']",
+                "['(2)', '(Altpetritor)']",
+                "['(3)', '(Bevenrode)']",
+                "['(4)', '(Bienrode)']",
+                "['(5)', '(Broitzem)']",
+                "['(6)', '(Buchhorst)']",
+                "['(7)', '(Dibbesdorf)']",
+                "['(8)', '(Geitelde)']",
+                "['(9)', '(Gliesmarode)']",
+                "['(10)', '(Hagen)']",
+                "['(11)', '(Harxbüttel)']",
+                "['(12)', '(Hohetor)']",
+                "['(13)', '(Hondelage)']",
+                "['(14)', '(Innenstadt)']",
+                "['(15)', '(Lamme)']",
+                "['(16)', '(Lehndorf)']",
+                "['(17)', '(Leiferde)']",
+                "['(18)', '(Mascherode)']",
+                "['(19)', '(Melverode)']",
+                "['(20)', '(Neupetritor)']",
+                "['(21)', '(Ölper)']",
+                "['(22)', '(Querum)']",
+                "['(23)', '(Rautheim)']",
+                "['(24)', '(Riddagshausen)']",
+                "['(25)', '(Rühme)']",
+                "['(26)', '(Rüningen)']",
+                "['(27)', '(Schapen)']",
+                "['(28)', '(Stiddien)']",
+                "['(29)', '(Stöckheim)']",
+                "['(30)', '(Thune)']",
+                "['(31)', '(Timmerlah)']",
+                "['(32)', '(Veltenhof)']",
+                "['(33)', '(Völkenrode)']",
+                "['(34)', '(Volkmarode)']",
+                "['(35)', '(Waggum)']",
+                "['(36)', '(Watenbüttel)']",
+                "['(37)', '(Wenden)']",
+                "['(38)', '(Wilhelmitor)']"
+            ]
+        }
+    ]
+}
