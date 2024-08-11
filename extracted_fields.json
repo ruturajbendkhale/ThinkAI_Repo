@@ -1,220 +1,667 @@
 {
     "Text Fields": [
         {
-            "Field Name": "Absenderangaben",
-            "Tooltip": "Geben Sie bitte die Absenderdaten vollständig ein."
-        },
-        {
-            "Field Name": "strasse",
-            "Tooltip": "Geben Sie bitte die Anschrift des betreffenden Grundstückes in Braunschweig \\(Straße, Hausnummer\\) an."
-        },
-        {
-            "Field Name": "Flur",
-            "Tooltip": "Geben Sie bitte die Flurbezeichnung des betreffenden Grundstücks an."
-        },
-        {
-            "Field Name": "Flurstueck",
-            "Tooltip": "Geben Sie bitte die Flurstücksbezeichnung\\(en\\) des betreffenden Grundstücks an."
-        },
-        {
-            "Field Name": "name",
-            "Tooltip": "Geben Sie bitte den Namen und die Vornamen der Antragstellerin/des Antragstellers vollständig an."
-        },
-        {
-            "Field Name": "anschrift",
-            "Tooltip": "Geben Sie bitte die Anschrift \\(PLZ, Ort, Straße, Hausnummer\\) der Antragstellerin/des Antragstellers vollständig an."
-        },
-        {
-            "Field Name": "telefon",
-            "Tooltip": "Geben Sie bitte eine Telefonnummer der Antragstellerin/des Antragstellers für Rückfragen an."
-        },
-        {
-            "Field Name": "email",
-            "Tooltip": "Geben Sie ggf. bitte die E-Mail-Anschrift der Antragstellerin/des Antragstellers an."
-        },
-        {
-            "Field Name": "name",
-            "Tooltip": "Geben Sie bitte den Namen und Vornamen der Eigentümerin/des Eigentümers vollständig an."
-        },
-        {
-            "Field Name": "anschrift",
-            "Tooltip": "Geben Sie bitte die Anschrift \\(PLZ, Ort, Straße, Hausnummer\\) der Eigentümerin/des Eigentümers vollständig an."
-        },
-        {
-            "Field Name": "telefon",
-            "Tooltip": "Geben Sie bitte die Telefonnummer der Eigentümerin/des Eigentümers an."
-        },
-        {
-            "Field Name": "email",
-            "Tooltip": "Geben Sie ggf. bitte die E-Mail-Anschrift der Eigentümerin/des Eigentümers an."
-        },
-        {
-            "Field Name": "datum",
-            "Tooltip": "Geben Sie bitte das Datum \\(Format TT.MM.JJJJ\\) an, an dem die Bauvoranfrage/der Bauantrag gestellt wurde."
-        },
-        {
-            "Field Name": "FormType#1",
-            "Tooltip": "Kurzbezeichnung des Formulartyps"
-        },
-        {
-            "Field Name": "DocType#2",
+            "Field Name": "Behörde",
             "Tooltip": ""
         },
         {
-            "Field Name": "SchemaURL#3",
+            "Field Name": "Aktenzeichen",
+            "Tooltip": "Aktenzeichen"
+        },
+        {
+            "Field Name": "Familienname ggf Geburtsname",
+            "Tooltip": "Familienname, ggf. Geburtsname"
+        },
+        {
+            "Field Name": "Vorname",
+            "Tooltip": "Vorname"
+        },
+        {
+            "Field Name": "Geburtsdatum",
+            "Tooltip": "Geburtsdatum"
+        },
+        {
+            "Field Name": "Staatsangehörigkeit",
+            "Tooltip": "Staatsangehörigkeit"
+        },
+        {
+            "Field Name": "Straße Hausnummer Stockwerk ggf Wohnungsnummer Postleitzahl Ort Telefon",
+            "Tooltip": "Straße, Hausnummer, Stockwerk, ggf. Wohnungsnummer, Postleitzahl, Ort, Telefon"
+        },
+        {
+            "Field Name": "Monat",
             "Tooltip": ""
         },
         {
-            "Field Name": "Version#4",
+            "Field Name": "Jahr",
             "Tooltip": ""
         },
         {
-            "Field Name": "OfficeShortcut#1",
-            "Tooltip": "Kurzbezeichnung des Kunden"
-        },
-        {
-            "Field Name": "TargetURL#2",
-            "Tooltip": "URL des Gateways"
-        },
-        {
-            "Field Name": "FormURL#3",
+            "Field Name": "Euro",
             "Tooltip": ""
         },
         {
-            "Field Name": "Signature#4",
+            "Field Name": "Monat1",
             "Tooltip": ""
         },
         {
-            "Field Name": "Certificate#5",
+            "Field Name": "Jahr1",
             "Tooltip": ""
         },
         {
-            "Field Name": "CertificateType#6",
+            "Field Name": "Euro1",
             "Tooltip": ""
         },
         {
-            "Field Name": "Content#7",
+            "Field Name": "Monat2",
             "Tooltip": ""
         },
         {
-            "Field Name": "Language#5",
+            "Field Name": "Jahr2",
             "Tooltip": ""
         },
         {
-            "Field Name": "Country#6",
+            "Field Name": "Euro2",
             "Tooltip": ""
         },
         {
-            "Field Name": "FormatString#8",
-            "Tooltip": "Listendarstellung in der Inbox"
-        },
-        {
-            "Field Name": "JavascriptArt",
+            "Field Name": "Monat3",
             "Tooltip": ""
         },
         {
-            "Field Name": "angaben1",
-            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+            "Field Name": "Jahr3",
+            "Tooltip": ""
         },
         {
-            "Field Name": "angaben2",
-            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+            "Field Name": "Euro3",
+            "Tooltip": ""
         },
         {
-            "Field Name": "angaben3",
-            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+            "Field Name": "Monat4",
+            "Tooltip": ""
         },
         {
-            "Field Name": "angaben4",
-            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+            "Field Name": "Jahr4",
+            "Tooltip": ""
         },
         {
-            "Field Name": "angaben5",
-            "Tooltip": "Beschreiben Sie bitte kurz das beabsichtigte Vorhaben."
+            "Field Name": "Euro4",
+            "Tooltip": ""
         },
         {
-            "Field Name": "datum",
-            "Tooltip": "Geben Sie bitte das Datum im Format TT.MM.JJJJ an."
+            "Field Name": "Monat5",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Jahr5",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro5",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Monat6",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Jahr6",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro6",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Monat7",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Jahr7",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro7",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Monat8",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Jahr8",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro8",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Monat9",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Jahr9",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro9",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Monat10",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Jahr10",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro10",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Monat11",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Jahr11",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro11",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro12",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro13",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro14",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro15",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro16",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro17",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro18",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro19",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro20",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro21",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro22",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Einnahmeart4",
+            "Tooltip": "Einnahmeart_4"
+        },
+        {
+            "Field Name": "Betrag   pro4",
+            "Tooltip": "Betrag   pro_4"
+        },
+        {
+            "Field Name": "Einnahmeart4_2",
+            "Tooltip": "Einnahmeart_4"
+        },
+        {
+            "Field Name": "Betrag   pro4_2",
+            "Tooltip": "Betrag   pro_4"
+        },
+        {
+            "Field Name": "Einnahmeart4_3",
+            "Tooltip": "Einnahmeart_4"
+        },
+        {
+            "Field Name": "Betrag   pro4_3",
+            "Tooltip": "Betrag   pro_4"
+        },
+        {
+            "Field Name": "Einnahme",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro23",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Einnahme1",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro24",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Jahr12",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro25",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Text",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Krankenkasse",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Rente",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Beiträge",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "AufDatum",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Antragstellerin  Antragsteller2",
+            "Tooltip": "Antragstellerin / Antragsteller_2"
+        },
+        {
+            "Field Name": "GebDatum",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "verwandt",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "AufDatum1",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Antragstellerin  Antragsteller3",
+            "Tooltip": "Antragstellerin / Antragsteller_3"
+        },
+        {
+            "Field Name": "GebDatum1",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "verwandt1",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "AufDatum2",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Antragstellerin  Antragsteller4",
+            "Tooltip": "Antragstellerin / Antragsteller_4"
+        },
+        {
+            "Field Name": "GebDatum2",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "verwandt2",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "AufDatum3",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Antragstellerin  Antragsteller5",
+            "Tooltip": "Antragstellerin / Antragsteller_5"
+        },
+        {
+            "Field Name": "GebDatum3",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "verwandt3",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "AufDatum4",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Antragstellerin  Antragsteller6",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "GebDatum4",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "verwandt4",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "AufDatum5",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Antragstellerin  Antragsteller7",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "GebDatum5",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "verwandt5",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "AufDatum6",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kind",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Tag",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Uhr",
+            "Tooltip": "Uhr"
+        },
+        {
+            "Field Name": "Uhr1",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "schwerbehindert",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "EheDatum",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Unterhalt",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Unterhalt1",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Euro26",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Ort Datum",
+            "Tooltip": ""
         }
     ],
     "Checkboxes": [
         {
-            "Field Name": "Pg1_Obj40",
+            "Field Name": "Kontrollkästchen1",
             "Tooltip": ""
         },
         {
-            "Field Name": "errichtung",
-            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme die Errichtung, Änderung oder Nutzungsänderung einer baulichen Anlage ist."
+            "Field Name": "Kontrollkästchen2",
+            "Tooltip": ""
         },
         {
-            "Field Name": "veraenderung",
-            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme die Veränderung der baulichen Anlage ist."
+            "Field Name": "Kontrollkästchen3",
+            "Tooltip": ""
         },
         {
-            "Field Name": "beseitigung",
-            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme die Beseitigung baulicher Anlagen ist."
+            "Field Name": "Kontrollkästchen4",
+            "Tooltip": ""
         },
         {
-            "Field Name": "baulast",
-            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme eine Baulast gemäß § 144 Abs. 2 Nr. 4 ist."
+            "Field Name": "Kontrollkästchen5",
+            "Tooltip": ""
         },
         {
-            "Field Name": "teilung",
-            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme die Teilung von Grundstücken ist."
+            "Field Name": "Kontrollkästchen6",
+            "Tooltip": ""
         },
         {
-            "Field Name": "vereinbarung",
-            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme schuldrechtliche Vereinbarungen/Verträge über den Gebrauch oder die Nutzung auf unbestimmte Zeit über ein Jahr hinaus beinhaltet."
+            "Field Name": "Kontrollkästchen7",
+            "Tooltip": ""
         },
         {
-            "Field Name": "sonstige",
-            "Tooltip": "Kreuzen Sie hier bitte an, wenn die beabsichtigte Maßnahme bislang nicht aufgeführt ist bzw. eine sonstige ist."
+            "Field Name": "Kontrollkästchen8",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen9",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen10",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen11",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen12",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen13",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen14",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen15",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen16",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen17",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen18",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen19",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen20",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen21",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen22",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen23",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen24",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen25",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen26",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen27",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen28",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen29",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen30",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen31",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen32",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen33",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen34",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen35",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen36",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen37",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen38",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen39",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen40",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen41",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen42",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen43",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen44",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen45",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen46",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen47",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen48",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen49",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen50",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen51",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen52",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen53",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen54",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen55",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen56",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen57",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen58",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen59",
+            "Tooltip": ""
+        },
+        {
+            "Field Name": "Kontrollkästchen60",
+            "Tooltip": ""
         }
     ],
-    "Dropdowns": [
-        {
-            "Field Name": "Gemarkung",
-            "Tooltip": "Wählen Sie bitte die Gemarkung in der das betreffende Grundstück liegt aus der aufklappbaren Liste aus.",
-            "Options": [
-                "['(1)', '(Altewiek)']",
-                "['(2)', '(Altpetritor)']",
-                "['(3)', '(Bevenrode)']",
-                "['(4)', '(Bienrode)']",
-                "['(5)', '(Broitzem)']",
-                "['(6)', '(Buchhorst)']",
-                "['(7)', '(Dibbesdorf)']",
-                "['(8)', '(Geitelde)']",
-                "['(9)', '(Gliesmarode)']",
-                "['(10)', '(Hagen)']",
-                "['(11)', '(Harxbüttel)']",
-                "['(12)', '(Hohetor)']",
-                "['(13)', '(Hondelage)']",
-                "['(14)', '(Innenstadt)']",
-                "['(15)', '(Lamme)']",
-                "['(16)', '(Lehndorf)']",
-                "['(17)', '(Leiferde)']",
-                "['(18)', '(Mascherode)']",
-                "['(19)', '(Melverode)']",
-                "['(20)', '(Neupetritor)']",
-                "['(21)', '(Ölper)']",
-                "['(22)', '(Querum)']",
-                "['(23)', '(Rautheim)']",
-                "['(24)', '(Riddagshausen)']",
-                "['(25)', '(Rühme)']",
-                "['(26)', '(Rüningen)']",
-                "['(27)', '(Schapen)']",
-                "['(28)', '(Stiddien)']",
-                "['(29)', '(Stöckheim)']",
-                "['(30)', '(Thune)']",
-                "['(31)', '(Timmerlah)']",
-                "['(32)', '(Veltenhof)']",
-                "['(33)', '(Völkenrode)']",
-                "['(34)', '(Volkmarode)']",
-                "['(35)', '(Waggum)']",
-                "['(36)', '(Watenbüttel)']",
-                "['(37)', '(Wenden)']",
-                "['(38)', '(Wilhelmitor)']"
-            ]
-        }
-    ]
+    "Dropdowns": []
 }

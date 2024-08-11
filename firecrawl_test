@@ -1,0 +1,10 @@
+from firecrawl import FirecrawlApp
+
+app = FirecrawlApp(api_key="fc-3eee88b9011842e2b27f05c8fc6aa6c0")
+
+# Crawl a website
+crawl_result = app.crawl_url('mendable.ai', {'crawlerOptions': {'excludes': ['blog/*']}})
+
+# Get the markdown for each crawled page
+for result in crawl_result:
+    print(result['markdown'])

@@ -2,7 +2,7 @@ from pdfrw import PdfReader
 import json
 
 # Load the PDF
-pdf_path = 'somegermanform.pdf'  # Replace with your PDF file path
+pdf_path = 'Antrag_auf_Wohnberechtigungsschein.pdf'  # Replace with your PDF file path
 pdf = PdfReader(pdf_path)
 
 # Create lists to hold field information
